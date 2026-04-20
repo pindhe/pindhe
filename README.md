@@ -9,10 +9,10 @@
 <table width="100%">
   <tr>
     <td align="left" width="50%">
-      <img src="https://i.pinimg.com/originals/c0/d1/b1/c0d1b11e54c2b07f7353dd160e8ba80d.gif" width="300" />
+      <img src="https://i.pinimg.com/originals/c0/d1/b1/c0d1b11e54c2b07f7353dd160e8ba80d.gif" width="280" />
     </td>
-    <td align="right" width="1000%">
-      <img src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width="300" />
+    <td align="right" width="50%">
+      <img src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width="280" />
     </td>
   </tr>
 </table>

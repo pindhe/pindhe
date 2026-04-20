@@ -44,49 +44,60 @@
   <tr>
     <td align="center" width="50%">
       <h3>🎨 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
+      </p>
     </td>
 
-   <td align="center" width="50%">
+  <td align="center" width="50%">
       <h3>⚙️ Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,python,php,java,csharp,django" />
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,python,php,java,csharp,django" />
+      </p>
     </td>
   </tr>
+
+  <tr><td colspan="2"><br/></td></tr>
 
   <tr>
     <td align="center" width="50%">
       <h3>🗄️ Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+      <p>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+      </p>
     </td>
 
   <td align="center" width="50%">
-      <h3>☁️ Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,android,aws,gcp,kafka" />
+      <h3>☁️ Tools & Cloud</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,android,aws,gcp,kafka" />
+      </p>
     </td>
   </tr>
 </table>
+
+---
+
 ## 💻 Systems & Intelligence
 
 <table width="100%">
   <tr>
     <td align="center" width="50%">
       <h3>💻 Operating Systems</h3>
-      <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian,arch" />
+      <p>
+        <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian,arch" />
+      </p>
     </td>
 
   <td align="center" width="50%">
       <h3>🤖 AI / Data</h3>
-      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+      </p>
+      <p><b>AI Engineer in Progress 🚀</b></p>
     </td>
   </tr>
 </table>
-
-### 🤖 AI / Data
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 

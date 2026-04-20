@@ -38,8 +38,31 @@
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,java,csharp,django,flutter,mongodb,mysql,postgres,sqlite,bootstrap,tailwind,git,github,docker,nginx,android,aws,gcp,kafka" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,java,csharp,django" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+</p>
+
+### 🤖 AI / Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### ☁️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,android,aws,gcp,kafka" />
 </p>
 
 ---

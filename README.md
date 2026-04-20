@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nour Hassan Pindhe</h1>
-<h3 align="center">💻 Full Stack Developer | 🤖 Artificial Intelligence Enthusiast</h3>
+<h3 align="center">💻 Full Stack Developer |  Artificial Intelligence Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="coding cartoon" />
+  <img src="[YOUR_GIF_LINK_HERE](https://i.pinimg.com/originals/c0/d1/b1/c0d1b11e54c2b07f7353dd160e8ba80d.gif)" width="350" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Full Stack Development & AI**
-- 💻 I build modern web & mobile applications
-- 🧠 Interested in **Artificial Intelligence & Machine Learning**
-- ✍️ I write articles here: [My Blog](https://pindhe8.wordpress.com/)
-- 📫 Reach me: **kharash420@gmail.com**
 
+- 🌱 Currently learning **Full Stack Development & Artificial Intelligence**
+- 💻 I build modern, scalable web & mobile applications
+- 🧠 Interested in **AI, Machine Learning & Software Engineering**
+- ✍️ I share thoughts & articles here: [My Blog](https://pindhe8.wordpress.com/)
+- 📫 Reach me anytime: **kharash420@gmail.com**
+
+💡 I enjoy turning ideas into real-world digital solutions.
 ---
 
 <h3 align="center">🛠️ Languages & Tools</h3>
@@ -53,6 +55,13 @@
 
 ## 🔥 Currently Working On
 
-🚀 Building full stack projects  
-🤖 Learning AI & Machine Learning  
-💡 Improving problem-solving skills  
+🚀 Building full stack web & mobile applications  
+🤖 Learning Artificial Intelligence & Machine Learning  
+💡 Improving problem-solving & algorithm skills  
+🧠 Exploring deep learning and neural networks  
+⚙️ Working on real-world project development  
+📱 Creating Flutter & React Native apps  
+🌐 Developing modern responsive web apps  
+🗄️ Strengthening backend & database skills  
+☁️ Learning cloud services (GCP, AWS basics)  
+📊 Practicing data structures & system design  

@@ -12,11 +12,11 @@
       <img src="https://i.pinimg.com/originals/a1/cc/9b/a1cc9b7bc71717eeb3ac0b9827b15437.gif" width="250" />
     </td>
 
-    <td align="center" width="33%">
+  <td align="center" width="33%">
       <img src="https://i.pinimg.com/originals/a1/cc/9b/a1cc9b7bc71717eeb3ac0b9827b15437.gif" width="250" />
     </td>
 
-    <td align="right" width="33%">
+ <td align="right" width="33%">
       <img src="https://i.pinimg.com/originals/a1/cc/9b/a1cc9b7bc71717eeb3ac0b9827b15437.gif" width="250" />
     </td>
   </tr>

@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nour Hassan Pindhe</h1>
-<h3 align="center">💻 Full Stack Developer |  Artificial Intelligence Enthusiast</h3>
+<h3 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Flutter+%7C+React+%7C+AI+Builder)](https://git.io/typing-svg)
+
+</h3>
 
 <p align="center">
   <img src="[YOUR_GIF_LINK_HERE](https://i.pinimg.com/originals/c0/d1/b1/c0d1b11e54c2b07f7353dd160e8ba80d.gif)" width="350" />

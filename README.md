@@ -47,7 +47,7 @@
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
     </td>
 
-    <td align="center" width="50%">
+  <td align="center" width="50%">
       <h3>⚙️ Backend</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,python,php,java,csharp,django" />
     </td>

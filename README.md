@@ -6,7 +6,7 @@
 </h3>
 <h1 align="center ">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=00F7FF&center=true&vCenter=true&width=300&lines=👋+Welcome+to+my+Pindhe;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=500&color=00F7FF&center=true&vCenter=true&width=300&lines=👋+Welcome+to+Pindhe;)](https://git.io/typing-svg)
 
 </h1>
 

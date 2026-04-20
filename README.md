@@ -11,7 +11,7 @@
     <td align="left" width="50%">
       <img src="https://i.pinimg.com/originals/c0/d1/b1/c0d1b11e54c2b07f7353dd160e8ba80d.gif" width="300" />
     </td>
-    <td align="right" width="50%">
+    <td align="right" width="100%">
       <img src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width="300" />
     </td>
   </tr>

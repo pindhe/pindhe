@@ -8,11 +8,16 @@
 
 <table width="100%">
   <tr>
-    <td align="left" width="50%">
-      <img src="https://i.pinimg.com/originals/c0/d1/b1/c0d1b11e54c2b07f7353dd160e8ba80d.gif" width="280" />
+    <td align="left" width="33%">
+      <img src="https://i.pinimg.com/originals/a1/cc/9b/a1cc9b7bc71717eeb3ac0b9827b15437.gif" width="250" />
     </td>
-    <td align="right" width="50%">
-      <img src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width="280" />
+
+    <td align="center" width="33%">
+      <img src="https://i.pinimg.com/originals/a1/cc/9b/a1cc9b7bc71717eeb3ac0b9827b15437.gif" width="250" />
+    </td>
+
+    <td align="right" width="33%">
+      <img src="https://i.pinimg.com/originals/a1/cc/9b/a1cc9b7bc71717eeb3ac0b9827b15437.gif" width="250" />
     </td>
   </tr>
 </table>

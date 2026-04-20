@@ -40,29 +40,37 @@
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
+    </td>
 
-### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,php,java,csharp,django" />
-</p>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,python,php,java,csharp,django" />
+    </td>
+  </tr>
 
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
-</p>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🗄️ Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+    </td>
+
+    <td align="center" width="50%">
+      <h3>☁️ Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,android,aws,gcp,kafka" />
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🤖 AI / Data
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### ☁️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,android,aws,gcp,kafka" />
 </p>
 
 ---

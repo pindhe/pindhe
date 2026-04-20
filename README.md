@@ -47,7 +47,7 @@
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
     </td>
 
-  <td align="center" width="50%">
+   <td align="center" width="50%">
       <h3>⚙️ Backend</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,python,php,java,csharp,django" />
     </td>
@@ -59,14 +59,27 @@
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
     </td>
 
-    <td align="center" width="50%">
+  <td align="center" width="50%">
       <h3>☁️ Tools</h3>
       <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,android,aws,gcp,kafka" />
     </td>
   </tr>
 </table>
+## 💻 Systems & Intelligence
 
----
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Operating Systems</h3>
+      <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian,arch" />
+    </td>
+
+  <td align="center" width="50%">
+      <h3>🤖 AI / Data</h3>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+    </td>
+  </tr>
+</table>
 
 ### 🤖 AI / Data
 <p align="center">

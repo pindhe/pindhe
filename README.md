@@ -4,7 +4,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Mobile+%26+Web+Developer)](https://git.io/typing-svg)
 
 </h3>
----
+<h1 align="left">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Welcome+to+my+GitHub!;My+name+is+Nour+Hassan+Pindhe;Full+Stack+Developer+%7C+AI+Enthusiast)](https://git.io/typing-svg)
+
+</h1>
 
 ## 🚀 About Me
 

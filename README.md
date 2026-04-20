@@ -29,12 +29,10 @@
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://facebook.com/pindhe2k"><img src="https://skillicons.dev/icons?i=facebook" /></a>
   <a href="https://instagram.com/pindhe_1"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://youtube.com/@pindhe"><img src="https://skillicons.dev/icons?i=youtube" /></a>
   <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://twitter.com"><img src="https://skillicons.dev/icons?i=twitter" /></a>
   <a href="mailto:kharash420@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>

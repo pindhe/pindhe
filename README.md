@@ -15,11 +15,11 @@
       <img src="https://i.pinimg.com/originals/c0/d1/b1/c0d1b11e54c2b07f7353dd160e8ba80d.gif" width="240" />
     </td>
 
-    <td align="center" width="33%">
+  <td align="center" width="33%">
       <img src="https://i.pinimg.com/originals/a1/cc/9b/a1cc9b7bc71717eeb3ac0b9827b15437.gif" width="240" />
     </td>
 
-    <td align="right" width="33%">
+   <td align="right" width="33%">
       <img src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width="240" />
     </td>
   </tr>
@@ -49,7 +49,7 @@
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
     </td>
 
-    <td align="center" width="50%">
+   <td align="center" width="50%">
       <h3>⚙️ Backend</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,python,php,java,csharp,django" />
     </td>
@@ -63,7 +63,7 @@
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
     </td>
 
-    <td align="center">
+   <td align="center">
       <h3>☁️ Tools & Cloud</h3>
       <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,android,aws,gcp,kafka" />
     </td>
@@ -81,7 +81,7 @@
       <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian,arch" />
     </td>
 
-    <td align="center" width="50%">
+  <td align="center" width="50%">
       <h3>🤖 AI / Data</h3>
       <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
       <br/><br/>

@@ -4,8 +4,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Mobile+%26+Web+Developer)](https://git.io/typing-svg)
 
 </h3>
-<p align="Right">
-  <img src="https://i.pinimg.com/originals/c0/d1/b1/c0d1b11e54c2b07f7353dd160e8ba80d.gif" width="400" alt="animated gif" />
+<p align="right">
+  <img src="https://i.pinimg.com/originals/c0/d1/b1/c0d1b11e54c2b07f7353dd160e8ba80d.gif" width="300" />
+</p>
+<p align="left">
+  <img src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif" width="300" />
 </p>
 
 ## 🚀 About Me

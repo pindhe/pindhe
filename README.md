@@ -105,10 +105,19 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pindhe&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pindhe&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pindhe&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pindhe&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pindhe&theme=tokyonight" />
 </p>
 
 ---

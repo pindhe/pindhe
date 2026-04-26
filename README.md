@@ -140,10 +140,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pindhe&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pindhe&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
 </p>
 

@@ -157,18 +157,7 @@
 
 ---
 
-## 🏆 Recent Projects
 
-<p align="center">
-  <a href="https://github.com/pindhe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pindhe&repo=your-repo-name&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/pindhe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pindhe&repo=another-repo&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
 
 ## 🔥 Currently Working On
 

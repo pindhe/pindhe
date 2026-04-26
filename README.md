@@ -36,9 +36,6 @@
 
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
-</div>
 
 - 🌱 Currently learning **Full Stack Development & Artificial Intelligence**  
 - 💻 Building modern, scalable **web & mobile applications**  

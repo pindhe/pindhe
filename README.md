@@ -192,14 +192,6 @@
   </p>
 </div>
 
----
-
-<div align="center">
-  <img src="https://github.com/pindhe/pindhe/raw/output/github-contribution-grid-snake.gif" alt="Animation" />
-  <p><em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em></p>
-</div>
-
----
 
 <div align="center">
   <p>Thanks for visiting my profile! 🙏</p>

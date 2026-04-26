@@ -147,9 +147,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pindhe&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pindhe&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pindhe&theme=tokyonight" />

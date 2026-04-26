@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pindhe/pindhe/main/banner.gif" width="100%" alt="Banner" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Nour Hassan Pindhe</h1>
 
 <h3 align="center">
@@ -14,8 +10,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pindhe.pindhe&left_color=blue&right_color=green" alt="Visitors"/>
   <img src="https://img.shields.io/github/followers/pindhe?style=social" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/pindhe?style=social" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Status-Available-brightgreen" alt="Status"/>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success" alt="Open to Work"/>
 </p>
 
 ---
@@ -46,155 +40,89 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
 </div>
 
-### 🎯 **Professional Summary**
-Passionate Full Stack Developer and AI Enthusiast with expertise in building modern, scalable web and mobile applications. I transform complex problems into elegant digital solutions through clean code and innovative thinking.
+- 🌱 Currently learning **Full Stack Development & Artificial Intelligence**  
+- 💻 Building modern, scalable **web & mobile applications**  
+- 🧠 Passionate about **AI, Machine Learning & Software Engineering**  
+- ✍️ Sharing knowledge & articles: [My Blog](https://pindhe8.wordpress.com/)  
+- 📫 Reach me: **kharash420@gmail.com**  
+- 🎯 Open to **collaboration** and **freelance opportunities**  
 
-### 💼 **Core Competencies**
-- 🌱 **Full Stack Development** - End-to-end application development
-- 🤖 **Artificial Intelligence** - Machine Learning & Deep Learning
-- 📱 **Mobile Development** - Flutter & React Native
-- ☁️ **Cloud Architecture** - AWS, GCP, and DevOps
-- 🗄️ **Database Design** - SQL & NoSQL optimization
-
-### 📞 **Contact & Collaboration**
-- ✍️ **Blog**: [My Blog](https://pindhe8.wordpress.com/)
-- 📧 **Email**: kharash420@gmail.com
-- 🎯 **Open to**: Collaboration, Freelance, Full-time opportunities
-- 🌐 **Location**: Remote / Worldwide
-
-💡 *"The best way to predict the future is to invent it." - Alan Kay*
+💡 *I enjoy transforming ideas into real-world digital solutions.*
 
 ---
 
-## 🛠️ Technical Expertise
+## 🛠️ Tech Stack
 
-### 🎨 **Frontend Development**
-<table>
+<table width="100%">
   <tr>
-    <td><strong>Core Technologies</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts" /></td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks & Libraries</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs" /></td>
-  </tr>
-  <tr>
-    <td><strong>Styling & UI</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,sass" /></td>
-  </tr>
-  <tr>
-    <td><strong>Mobile Development</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=flutter,reactnative" /></td>
-  </tr>
-</table>
+    <td align="center" width="50%">
+      <h3>🎨 Frontend</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind,flutter,reactnative" />
+      </p>
+      <p><em>Modern UI/UX with responsive design</em></p>
+    </td>
 
-### ⚙️ **Backend Development**
-<table>
-  <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=python,nodejs,java,csharp,php" /></td>
+   <td align="center" width="50%">
+      <h3>⚙️ Backend</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,python,php,java,csharp,django,express,spring" />
+      </p>
+      <p><em>RESTful APIs & microservices architecture</em></p>
+    </td>
   </tr>
-  <tr>
-    <td><strong>Frameworks</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=django,express,spring,laravel" /></td>
-  </tr>
-  <tr>
-    <td><strong>API Development</strong></td>
-    <td>RESTful APIs, GraphQL, WebSocket</td>
-  </tr>
-</table>
 
-### 🗄️ **Database & Storage**
-<table>
-  <tr>
-    <td><strong>Relational Databases</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" /></td>
-  </tr>
-  <tr>
-    <td><strong>NoSQL Databases</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,redis,firebase" /></td>
-  </tr>
-  <tr>
-    <td><strong>Database Design</strong></td>
-    <td>Schema Design, Optimization, Migration</td>
-  </tr>
-</table>
+  <tr><td colspan="2"><br/></td></tr>
 
-### ☁️ **Cloud & DevOps**
-<table>
   <tr>
-    <td><strong>Cloud Platforms</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,gcp,azure" /></td>
-  </tr>
-  <tr>
-    <td><strong>DevOps Tools</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,terraform" /></td>
-  </tr>
-  <tr>
-    <td><strong>CI/CD & Monitoring</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=jenkins,nginx,grafana" /></td>
+    <td align="center">
+      <h3>🗄️ Databases</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase" />
+      </p>
+      <p><em>SQL & NoSQL database management</em></p>
+    </td>
+
+   <td align="center">
+      <h3>☁️ Tools & Cloud</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,android,aws,gcp,kafka,vscode" />
+      </p>
+      <p><em>DevOps & Cloud deployment</em></p>
+    </td>
   </tr>
 </table>
 
 ---
 
-## 🤖 **Artificial Intelligence & Data Science**
+## 💻 Systems & Intelligence
 
-### 🧠 **Machine Learning Stack**
-<table>
+<table width="100%">
   <tr>
-    <td><strong>Core Libraries</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /></td>
-  </tr>
-  <tr>
-    <td><strong>Data Processing</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn" /></td>
-  </tr>
-  <tr>
-    <td><strong>Visualization</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=matplotlib,plotly" /></td>
-  </tr>
-  <tr>
-    <td><strong>AI Specializations</strong></td>
-    <td>NLP, Computer Vision, Deep Learning, Reinforcement Learning</td>
+    <td align="center" width="50%">
+      <h3>💻 Operating Systems</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian,arch" />
+      </p>
+      <p><em>Multi-platform development environment</em></p>
+    </td>
+
+  <td align="center" width="50%">
+      <h3>🤖 AI / Data</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,pandas,numpy" />
+      </p>
+      <p><em>Machine Learning & Deep Learning</em></p>
+      <br/>
+      <b>🚀 AI Engineer in Progress</b>
+    </td>
   </tr>
 </table>
-
-### 💻 **Operating Systems & Development Environment**
-<table>
-  <tr>
-    <td><strong>Operating Systems</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,debian,arch" /></td>
-  </tr>
-  <tr>
-    <td><strong>Development Tools</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma" /></td>
-  </tr>
-  <tr>
-    <td><strong>Version Control</strong></td>
-    <td>Git, GitHub, GitLab, Bitbucket</td>
-  </tr>
-</table>
-
-<div align="center">
-  <b>🚀 AI Engineer in Progress | 🎯 Continuous Learning Advocate</b>
-</div>
 
 ---
 
-## 🌐 **Connect & Collaborate**
+## 🌐 Connect With Me
 
-### 📧 **Professional Contact**
-<div align="center">
-  <p>
-    <strong>📧 Email:</strong> <a href="mailto:kharash420@gmail.com">kharash420@gmail.com</a><br/>
-    <strong>🌐 Blog:</strong> <a href="https://pindhe8.wordpress.com/">pindhe8.wordpress.com</a><br/>
-    <strong>💼 LinkedIn:</strong> <a href="https://linkedin.com">Let's Connect</a><br/>
-    <strong>🎯 Open to:</strong> Full-time, Freelance, Collaboration opportunities
-  </p>
-</div>
-
-### 🌟 **Social Presence**
 <p align="center">
   <a href="https://facebook.com/pindhe2k"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook"/></a>
   <a href="https://instagram.com/pindhe_1"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
@@ -203,14 +131,7 @@ Passionate Full Stack Developer and AI Enthusiast with expertise in building mod
   <a href="mailto:kharash420@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
   <a href="https://github.com/pindhe"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
   <a href="https://pindhe8.wordpress.com/"><img src="https://skillicons.dev/icons?i=wordpress" alt="Blog"/></a>
-  <a href="https://stackoverflow.com"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow"/></a>
 </p>
-
-### 🤝 **Let's Work Together**
-<div align="center">
-  <p><strong>I'm excited to collaborate on innovative projects!</strong></p>
-  <p>Whether it's building cutting-edge applications, exploring AI solutions, or contributing to open-source, I'm always ready for new challenges.</p>
-</div>
 
 ---
 
@@ -237,114 +158,65 @@ Passionate Full Stack Developer and AI Enthusiast with expertise in building mod
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pindhe&theme=tokyonight" />
 </p>
 
-## 🏆 **Featured Projects**
+---
 
-### 🚀 **Recent Open Source Contributions**
+## 🏆 Recent Projects
+
 <p align="center">
   <a href="https://github.com/pindhe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pindhe&repo=ai-chatbot&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pindhe&repo=your-repo-name&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/pindhe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pindhe&repo=student-profiles&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pindhe&repo=another-repo&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
-### 📊 **Project Categories**
-<table align="center">
-  <tr>
-    <td align="center"><strong>🤖 AI/ML Projects</strong></td>
-    <td align="center"><strong>🌱 Web Applications</strong></td>
-    <td align="center"><strong>📱 Mobile Apps</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Chatbots, Image Recognition, NLP</td>
-    <td align="center">E-commerce, SaaS, APIs</td>
-    <td align="center">Flutter, React Native</td>
-  </tr>
-</table>
+---
+
+## 🔥 Currently Working On
+
+- 🚀 Building full stack web & mobile applications  
+- 🤖 Advancing in Artificial Intelligence & Machine Learning  
+- 💡 Enhancing problem-solving & algorithmic thinking  
+- 🧠 Exploring deep learning & neural networks  
+- ⚙️ Developing real-world production-ready projects  
+- 📱 Creating Flutter & React Native applications  
+- 🌐 Designing modern responsive web applications  
+- 🗄️ Strengthening backend systems & database design  
+- ☁️ Learning cloud platforms (GCP & AWS basics)  
+- 📊 Practicing data structures & system design  
 
 ---
 
-## 📈 **GitHub Performance Analytics**
+## 📈 GitHub Activity
 
-## 🎯 **Current Focus Areas**
-
-### 🚀 **Active Development**
-- 🤖 **Advanced AI/ML**: Deep Learning, Computer Vision, NLP
-- 🌐 **Full Stack Mastery**: Microservices, Serverless Architecture
-- 📱 **Cross-Platform Mobile**: Flutter & React Native optimization
-- ☁️ **Cloud Engineering**: Kubernetes, Terraform, CI/CD pipelines
-- 🗄️ **Database Architecture**: Performance tuning & optimization
-
-### 📚 **Learning Path**
-- 🎓 **Advanced Algorithms & Data Structures**
-- 🔒 **Cybersecurity & Ethical Hacking**
-- 🧮 **Mathematics for Machine Learning**
-- 🏗️ **System Design & Architecture**
-- 📊 **Data Engineering & Big Data**
-
-### 💡 **Innovation Goals**
-- 🌟 Build production-ready AI applications
-- 🚀 Contribute to major open-source projects
-- 🎯 Launch successful SaaS products
-- 🤝 Mentor aspiring developers
-- 📖 Share knowledge through technical writing  
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
-## 🌟 **Personal Insights**
-
-### ⚡ **Fun Facts & Philosophy**
 <div align="center">
-  <table>
-    <tr>
-      <td>🌟 <strong>Problem Solver</strong></td>
-      <td>I thrive on complex challenges and innovative solutions</td>
-    </tr>
-    <tr>
-      <td>💭 <strong>Curious Mind</strong></td>
-      <td>Always exploring new technologies and methodologies</td>
-    </tr>
-    <tr>
-      <td>🎯 <strong>Detail-Oriented</strong></td>
-      <td>Precision and quality drive my development approach</td>
-    </tr>
-    <tr>
-      <td>🚀 <strong>Continuous Learner</strong></td>
-      <td>Growth mindset and lifelong learning enthusiast</td>
-    </tr>
-  </table>
-</div>
-
-### 💭 **Development Philosophy**
-<div align="center">
-  <p><em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em></p>
-  <p><em>"The best error message is the one that never shows up." – Thomas Fuchs</em></p>
-  <p><em>"First, solve the problem. Then, write the code." – John Johnson</em></p>
-</div>
-
----
-
-## 🎊 **Thank You & Call to Action**
-
-<div align="center">
-  <h3>🙏 **Thanks for Visiting My Profile!**</h3>
-  <p><strong>Let's build something amazing together! 🚀</strong></p>
-  
+  <h3>⚡ Fun Facts</h3>
   <p>
-    <strong>📧 Drop me a message:</strong> kharash420@gmail.com<br/>
-    <strong>🌐 Check out my blog:</strong> <a href="https://pindhe8.wordpress.com/">pindhe8.wordpress.com</a><br/>
-    <strong>🤝 Let's collaborate:</strong> Open to exciting opportunities
+    🌟 I love solving complex problems<br/>
+    💭 Always curious about new technologies<br/>
+    🎯 Goal-oriented and detail-focused<br/>
+    🚀 Believer in continuous learning
   </p>
-  
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" />
-  
-  <p><em>"The only way to do great work is to love what you do." - Steve Jobs</em></p>
 </div>
 
 ---
 
 <div align="center">
-  <p><strong>⭐ Star this repository if you found it helpful!</strong></p>
-  <p><strong>🔄 Follow for more updates and contributions!</strong></p>
+  <img src="https://github.com/pindhe/pindhe/raw/output/github-contribution-grid-snake.gif" alt="Animation" />
+  <p><em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em></p>
+</div>
+
+---
+
+<div align="center">
+  <p>Thanks for visiting my profile! 🙏</p>
+  <p>Let's connect and build something amazing together! 🚀</p>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" />
 </div>

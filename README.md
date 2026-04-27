@@ -123,7 +123,7 @@
 <p align="center">
   <a href="https://facebook.com/pindhe2k"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook"/></a>
   <a href="https://instagram.com/pindhe_1"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
-  <a href="www.linkedin.com/in/nour-pindhe-44b711312"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/nour-pindhe-44b711312"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
   <a href="https://twitter.com"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/></a>
   <a href="mailto:kharash420@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
   <a href="https://github.com/pindhe"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>

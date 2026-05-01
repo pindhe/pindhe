@@ -166,11 +166,7 @@
 - ☁️ Learning cloud platforms (GCP & AWS basics)  
 - 📊 Practicing data structures & system design  
 
----
 
-## 📈 GitHub Activity
-
----
 
 <div align="center">
   <h3>⚡ Fun Facts</h3>

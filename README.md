@@ -36,18 +36,17 @@
 
 ## 🚀 About Me
 
+- 🌱 Currently exploring **Full Stack Development, Artificial Intelligence & Modern Software Engineering**
+- 💻 Building scalable and high-performance **web & mobile applications**
+- 🤖 Passionate about **AI, Machine Learning, UI/UX & Backend Systems**
+- 🚀 Focused on creating modern digital experiences with clean architecture
+- ✍️ Portfolio & Projects: [Visit My Website](https://agent-6a00c75984a79e0f35643c39--eng-pindhe.netlify.app/)
+- 📫 Reach me at: **kharash420@gmail.com**
+- 🤝 Open to **collaboration, freelance work & innovative projects**
 
-- 🌱 Currently learning **Full Stack Development & Artificial Intelligence**  
-- 💻 Building modern, scalable **web & mobile applications**  
-- 🧠 Passionate about **AI, Machine Learning & Software Engineering**  
-- ✍️ Sharing knowledge & articles: [ME  ]([https://pindhe8.wordpress.com/](https://agent-6a00c75984a79e0f35643c39--eng-pindhe.netlify.app/))  
-- 📫 Reach me: **kharash420@gmail.com**  
-- 🎯 Open to **collaboration** and **freelance opportunities**  
-
-💡 *I enjoy transforming ideas into real-world digital solutions.*
+💡 *I love transforming creative ideas into powerful real-world digital solutions.*
 
 ---
-
 ## 🛠️ Tech Stack
 
 <table width="100%">

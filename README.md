@@ -40,7 +40,7 @@
 - 🌱 Currently learning **Full Stack Development & Artificial Intelligence**  
 - 💻 Building modern, scalable **web & mobile applications**  
 - 🧠 Passionate about **AI, Machine Learning & Software Engineering**  
-- ✍️ Sharing knowledge & articles: [My Blog](https://pindhe8.wordpress.com/)  
+- ✍️ Sharing knowledge & articles: [My Blog]([https://pindhe8.wordpress.com/](https://agent-6a00c75984a79e0f35643c39--eng-pindhe.netlify.app/))  
 - 📫 Reach me: **kharash420@gmail.com**  
 - 🎯 Open to **collaboration** and **freelance opportunities**  
 

@@ -29,55 +29,6 @@
 </p>
 
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    3D CONTRIBUTION SNAKE                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<!-- TITLE -->
-<h2 style="
-  color:#00f7ff;
-  text-shadow:0px 0px 15px rgba(0,247,255,0.7);
-  font-size:28px;
-">
-🐍 My GitHub Contribution Snake
-</h2>
-
-<!-- SUB TEXT -->
-<p style="color:#aaa; font-size:14px;">
-Animated view of my GitHub activity journey 🚀
-</p>
-
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/pindhe/pindhe/output/github-contribution-grid-snake-dark.svg" />
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/pindhe/pindhe/output/github-contribution-grid-snake.svg" />
-
-  <img alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/pindhe/pindhe/output/github-contribution-grid-snake-dark.svg"
-    style="
-      width: 85%;
-      max-width: 800px;
-      border-radius: 16px;
-      box-shadow: 0px 10px 35px rgba(0,247,255,0.25);
-      border: 1px solid rgba(0,247,255,0.2);
-    " />
-</picture>
-
-<!-- FOOTER BADGE STYLE -->
-<p>
-  <img src="https://img.shields.io/badge/GitHub_Activity-Live-00f7ff?style=for-the-badge&logo=github" />
-</p>
-
-</div>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -93,8 +44,8 @@ Animated view of my GitHub activity journey 🚀
 ```yaml
 Name       : Nour Hassan Pindhe
 Handle     : @pindhe
-Role       : Full Stack Developer & AI Enthusiast
-Location   : 🌍 Hargeisa, Somalia
+Role       : Technology IT
+Location   : 🌍 Hargeisa, Somaliland
 Status     : Open to Work & Collaboration
 
 Passion    :

@@ -1,15 +1,33 @@
-<h1 align="center">Hi 👋, I'm Nour Hassan Pindhe</h1>
+<div align="center">
 
-<h3 align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Mobile+%26+Web+Developer)](https://git.io/typing-svg)
+<h1 style="color:#00f7ff; text-shadow: 0px 0px 15px #00f7ff;">
+Hi 👋, I'm Nour Hassan Pindhe
+</h1>
+
+<h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer+%7C+Machine+Learning+Enthusiast;Mobile+%26+Web+Architect;Cyber+Security+Mindset+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </h3>
 
+<!-- Hacker Glow Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212258419-4f8c2f7c-8c3f-4c6c-9a1f-7d7d0a6c8f8a.gif" width="100%" />
+
+<!-- Visitor + Stats -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=pindhe&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/pindhe?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/pindhe?style=for-the-badge&color=green" />
+</p>
+
+---
+
+## ⚡ TECH STACK (HACKER MODE)
+
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pindhe.pindhe&left_color=blue&right_color=green" alt="Visitors"/>
-  <img src="https://img.shields.io/github/followers/pindhe?style=social" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/pindhe?style=social" alt="Stars"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,flutter,firebase,mongodb,python,java,git,github,vscode" />
+
 </p>
 
 ---

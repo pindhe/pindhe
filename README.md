@@ -1,36 +1,39 @@
 <div align="center">
 
-<h1 style="color:#00f7ff; text-shadow: 0px 0px 15px #00f7ff;">
-Hi 👋, I'm Nour Hassan Pindhe
+<!-- 🌈 CARTOON STYLE TITLE -->
+<h1 style="
+  font-size: 40px;
+  background: linear-gradient(90deg,#00f7ff,#ff00cc,#00ff88);
+  -webkit-background-clip: text;
+  color: transparent;
+  text-shadow: 0px 0px 20px rgba(0,247,255,0.6);
+">
+👋 Hi, I'm Nour Hassan Pindhe 🚀
 </h1>
 
+<!-- ✨ ANIMATED CARTOON TYPING -->
 <h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer+%7C+Machine+Learning+Enthusiast;Mobile+%26+Web+Architect;Cyber+Security+Mindset+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Explorer+%F0%9F%A7%A0;Mobile+%26+Web+App+Creator+%F0%9F%93%B1;Cyber+Hacker+Style+Developer+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </h3>
 
-<!-- Hacker Glow Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212258419-4f8c2f7c-8c3f-4c6c-9a1f-7d7d0a6c8f8a.gif" width="100%" />
-
-<!-- Visitor + Stats -->
+<!-- 🌟 VISITOR + STATS BADGES -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=pindhe&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/pindhe?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/pindhe?style=for-the-badge&color=green" />
+  <img src="https://img.shields.io/github/followers/pindhe?style=for-the-badge&color=ff00cc" />
+  <img src="https://img.shields.io/github/stars/pindhe?style=for-the-badge&color=00ff88" />
 </p>
 
----
+<!-- ⚡ CARTOON DIVIDER ANIMATION -->
+<img src="https://user-images.githubusercontent.com/74038190/212258419-4f8c2f7c-8c3f-4c6c-9a1f-7d7d0a6c8f8a.gif" width="100%" />
 
-## ⚡ TECH STACK (HACKER MODE)
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,flutter,firebase,mongodb,python,java,git,github,vscode" />
-
+<!-- 🧠 ICONS 3D STYLE -->
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,tailwind,firebase,mongodb,python,git,github,vscode" />
 </p>
 
----
+</div>
 
 <p align="center">
 <table width="100%">

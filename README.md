@@ -4,7 +4,7 @@
 <!--                    ANIMATED HEADER BANNER                       -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00f7ff,50:7c3aed,100:a78bfa&height=250&section=header&text=Eng%20Nour%20Hassan%20Pindhe&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20AI%20Explorer%20%7C%20Mobile%20Dev&descSize=18&descAlignY=62&descColor=00f7ff&stroke=7c3aed&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00f7ff,50:7c3aed,100:a78bfa&height=250&section=header&text=Eng%20Nour%20Hassan%20Pindhe&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&descSize=18&descAlignY=62&descColor=00f7ff&stroke=7c3aed&strokeWidth=2"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">

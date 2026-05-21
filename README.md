@@ -345,6 +345,7 @@ LLMs / RAG         █████████░░░░░░░░░  48% �
 
 <div align="center">
 
+
 <a href="https://linkedin.com/in/nour-pindhe-44b711312">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>

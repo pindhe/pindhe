@@ -1,43 +1,36 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                    ANIMATED HEADER BANNER                       -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- HEADER BANNER — capsule-render (very reliable) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Eng%20Nour%20Hassan%20Pindhe&fontSize=50&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Explorer%20%7C%20Mobile%20Dev&descSize=18&descAlignY=58&descColor=a78bfa"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00f7ff,50:7c3aed,100:a78bfa&height=250&section=header&text=Eng%20Nour%20Hassan%20Pindhe&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&descSize=18&descAlignY=62&descColor=00f7ff&stroke=7c3aed&strokeWidth=2"/>
-
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION — demolab (very reliable) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=%F0%9F%9A%80+Architecting+Scalable+Digital+Experiences;%F0%9F%A4%96+Deep+Learning+%26+Neural+Network+Researcher;%F0%9F%8C%90+React+%E2%80%A2+Flutter+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+AWS;%E2%9A%A1+From+Hargeisa+to+the+Global+Tech+Stage+%F0%9F%8C%8D;%F0%9F%94%A5+Open+Source+Contributor+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=%F0%9F%9A%80+Architecting+Scalable+Digital+Experiences;%F0%9F%A4%96+Deep+Learning+%26+Neural+Network+Researcher;%F0%9F%8C%90+React+%E2%80%A2+Flutter+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+AWS;%E2%9A%A1+From+Hargeisa+to+the+Global+Tech+Stage+%F0%9F%8C%8D;%F0%9F%94%A5+Open+Source+Contributor+%26+Problem+Solver" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ANIMATED BADGES -->
+<!-- BADGES — shields.io (100% reliable) -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=pindhe&style=for-the-badge&color=7c3aed&labelColor=0f0c29&label=PROFILE+VIEWS" alt="Views"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/pindhe?style=for-the-badge&color=00f7ff&labelColor=0f0c29&label=FOLLOWERS&logo=github" alt="Followers"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/pindhe?style=for-the-badge&color=a78bfa&labelColor=0f0c29&label=TOTAL+STARS&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/github/stars/pindhe?style=for-the-badge&color=a78bfa&labelColor=0f0c29&label=STARS&logo=github" alt="Stars"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-00ff88?style=for-the-badge&labelColor=0f0c29&logo=statuspage" alt="Status"/>
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-00ff88?style=for-the-badge&labelColor=0f0c29" alt="Status"/>
 </p>
-
-<!-- WAVE DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 </div>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                         ABOUT ME                                -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+---
 
+<!-- ABOUT ME -->
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
 
-## 🌌 `who am i`
+## 🌌 `whoami`
 
 ```yaml
 ╭─────────────────────────────────────────╮
@@ -72,7 +65,8 @@
 
 <br/>
 
-<img src="https://i.pinimg.com/originals/a1/cc/9b/a1cc9b7bc71717eeb3ac0b9827b15437.gif" width="290" style="border-radius:24px; box-shadow: 0 0 30px #7c3aed;"/>
+<!-- CODING GIF — raw.githubusercontent reliable source -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Coding animation"/>
 
 <br/><br/>
 
@@ -80,24 +74,11 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/📧_Email-Hire_Me-a78bfa?style=for-the-badge&labelColor=0f0c29)](mailto:kharash420@gmail.com)
 
-<br/>
-
-<!-- ANIMATED SNAKE GRAPH -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pindhe/pindhe/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pindhe/pindhe/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pindhe/pindhe/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                       TECH ARSENAL                              -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -118,7 +99,7 @@
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net/)
@@ -128,8 +109,9 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/)
 
 ### ☁️ DevOps, Cloud & Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -139,7 +121,7 @@
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
 [![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org/)
-[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 ### 🤖 AI / Machine Learning
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
@@ -147,20 +129,14 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/)
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                     SKILL PROFICIENCY                           -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+---
 
 ## 📊 Skill Proficiency
-
-<div align="center">
 
 <table width="100%">
 <tr>
@@ -179,9 +155,9 @@ React Native       ████████████░░░░░░  65%
 ```
 Node.js / Express  ████████████████░░  85% ⭐
 Python / Django    ███████████████░░░  78%
+FastAPI            █████████████░░░░░  68%
 Java / Spring      ████████████░░░░░░  62%
 PHP / Laravel      ████████████░░░░░░  60%
-FastAPI            █████████████░░░░░  68%
 ```
 
 </td>
@@ -198,8 +174,8 @@ AWS / GCP          ██████████░░░░░░░░  52%
 
 **🤖 AI & Data Science**
 ```
-Scikit-Learn       █████████████░░░░░  68%
 Data Analysis      ██████████████░░░░  72%
+Scikit-Learn       █████████████░░░░░  68%
 TensorFlow/PyTorch ████████████░░░░░░  63%
 Deep Learning      ██████████░░░░░░░░  55%
 LLMs / RAG         █████████░░░░░░░░░  48% 🔥
@@ -209,93 +185,50 @@ LLMs / RAG         █████████░░░░░░░░░  48% �
 </tr>
 </table>
 
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                    GITHUB STATS (DYNAMIC)                       -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
 
+<!-- github-readme-stats — most reliable stats service -->
 <table>
 <tr>
 <td>
-  <img src="[https://github-readme-stats.vercel.app/api?username=pindhe&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&include_all_commits=true&count_private=true&bg_color=0f0c29,302b63,24243e&title_color=00f7ff&icon_color=a78bfa&text_color=ffffff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage](https://i.pinimg.com/736x/e6/95/88/e69588cea343ad7033d13f1bf282ed9d.jpg)" height="210"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pindhe&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true&count_private=true&bg_color=0f0c29,302b63,24243e&title_color=00f7ff&icon_color=a78bfa&text_color=ffffff" height="200"/>
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pindhe&layout=donut&theme=tokyonight&hide_border=true&border_radius=18&langs_count=8&bg_color=0f0c29,302b63,24243e&title_color=00f7ff&text_color=ffffff" height="210"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pindhe&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&langs_count=8&bg_color=0f0c29,302b63,24243e&title_color=00f7ff&text_color=ffffff" height="200"/>
 </td>
 </tr>
 </table>
 
-<!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pindhe&theme=tokyonight&hide_border=true&border_radius=18&background=0f0c29&ring=00f7ff&fire=a78bfa&currStreakLabel=00f7ff&sideLabels=ffffff&dates=a0a0b0&currStreakNum=ffffff&sideNums=00f7ff" height="185" width="680"/>
-
-<br/>
-
-<!-- GITHUB METRICS CARD -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pindhe&theme=tokyonight" width="740"/>
+<!-- streak stats -->
+<img src="https://streak-stats.demolab.com/?user=pindhe&theme=tokyonight&hide_border=true&border_radius=16&background=0f0c29&ring=00f7ff&fire=a78bfa&currStreakLabel=00f7ff&sideLabels=ffffff&dates=a0a0b0&currStreakNum=ffffff&sideNums=00f7ff" height="185" width="680"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                   3D CONTRIBUTION GRAPH                         -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+---
 
 ## 🌊 Contribution Activity
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pindhe&bg_color=0f0c29&color=00f7ff&line=a78bfa&point=00f7ff&area=true&area_color=7c3aed&hide_border=true&radius=16&custom_title=Nour%27s%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- 3D ISOMETRIC CONTRIBUTION CALENDAR -->
-<a href="https://github.com/pindhe">
-  <img src="https://github-contribution-graph.ez4o.com/?username=pindhe&theme=nord" width="720" alt="3D Contribution Calendar"/>
-</a>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pindhe&bg_color=0f0c29&color=00f7ff&line=a78bfa&point=ffffff&area=true&hide_border=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                         TROPHIES                                -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pindhe&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pindhe&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" width="100%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                   FEATURED PROJECTS                             -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/pindhe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pindhe&repo=pindhe&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0f0c29,302b63,24243e&title_color=00f7ff&icon_color=a78bfa&text_color=ffffff" />
-</a>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                   WHAT I'M BUILDING                             -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+---
 
 ## 🔥 Currently Building
 
@@ -313,38 +246,11 @@ LLMs / RAG         █████████░░░░░░░░░  48% �
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                  REALTIME CODING TIME (WAKATIME)                -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## ⏱️ Coding Time (WakaTime)
-
-<div align="center">
-
-[![wakatime](https://wakatime.com/badge/user/pindhe.svg?style=for-the-badge)](https://wakatime.com/@pindhe)
-
-<!--
-  💡 To enable live WakaTime stats, connect your account at:
-     https://wakatime.com and add the WakaTime plugin to your editor.
-     Then uncomment this line with your actual username:
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pindhe&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0f0c29,302b63,24243e&title_color=00f7ff&text_color=ffffff"/>
--->
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                      CONNECT WITH ME                            -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+---
 
 ## 🌐 Let's Connect & Collaborate
 
 <div align="center">
-
 
 <a href="https://linkedin.com/in/nour-pindhe-44b711312">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -376,46 +282,15 @@ LLMs / RAG         █████████░░░░░░░░░  48% �
 
 <br/><br/>
 
-<!-- DYNAMIC QUOTE -->
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                   SUPPORT / BUY ME A COFFEE                     -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
+<!-- FOOTER -->
 <div align="center">
 
-### 💙 Support My Work
-
-[![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pindhe)
-&nbsp;
-[![GitHub Sponsor](https://img.shields.io/badge/💖_Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/pindhe)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Thanks+for+visiting!+Let%27s+build+something+amazing+%F0%9F%9A%80&fontSize=17&fontColor=00f7ff&animation=twinkling&fontAlignY=72"/>
 
 </div>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                        FOOTER WAVE                              -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:7c3aed,100:00f7ff&height=140&section=footer&text=Thanks+for+visiting!+Let%27s+build+something+amazing+%F0%9F%9A%80&fontSize=17&fontColor=ffffff&animation=twinkling&fontAlignY=72"/>
-
-</div>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--   📌 SETUP NOTES FOR SNAKE ANIMATION:                         -->
-<!--   Add this GitHub Action to your repo to enable snake:         -->
-<!--   .github/workflows/snake.yml                                  -->
-<!--                                                                -->
-<!--   on: schedule: - cron: "0 */12 * * *"                        -->
-<!--   uses: Platane/snk@v3                                         -->
-<!--   with: github_user_name: pindhe                               -->
-<!--         outputs: |                                              -->
-<!--           dist/github-snake.svg                                 -->
-<!--           dist/github-snake-dark.svg?palette=github-dark        -->
-<!-- ══════════════════════════════════════════════════════════════ -->

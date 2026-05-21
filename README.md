@@ -224,7 +224,7 @@ LLMs / RAG         █████████░░░░░░░░░  48% �
 <table>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=pindhe&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&include_all_commits=true&count_private=true&bg_color=0f0c29,302b63,24243e&title_color=00f7ff&icon_color=a78bfa&text_color=ffffff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="210"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=pindhe&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&include_all_commits=true&count_private=true&bg_color=0f0c29,302b63,24243e&title_color=00f7ff&icon_color=a78bfa&text_color=ffffff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage](https://i.pinimg.com/736x/e6/95/88/e69588cea343ad7033d13f1bf282ed9d.jpg)" height="210"/>
 </td>
 <td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pindhe&layout=donut&theme=tokyonight&hide_border=true&border_radius=18&langs_count=8&bg_color=0f0c29,302b63,24243e&title_color=00f7ff&text_color=ffffff" height="210"/>

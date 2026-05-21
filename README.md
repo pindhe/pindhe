@@ -1,337 +1,221 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER BANNER                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                    ANIMATED HEADER BANNER                       -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Eng%20Nour%20Hassan%20Pindhe&fontSize=50&fontColor=00f7ff&animation=fadeIn&fontAlignY=38descAlignY=60&descAlign=50&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00f7ff,50:7c3aed,100:a78bfa&height=250&section=header&text=Eng%20Nour%20Hassan%20Pindhe&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20AI%20Explorer%20%7C%20Mobile%20Dev&descSize=18&descAlignY=62&descColor=00f7ff&stroke=7c3aed&strokeWidth=2"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TYPING ANIMATION                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=%F0%9F%9A%80+Building+the+Future+with+Code;%F0%9F%A4%96+AI+%26+Machine+Learning+Explorer;%F0%9F%8C%90+Full+Stack+Web+%26+Mobile+Dev;%E2%9A%A1+Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=%F0%9F%9A%80+Architecting+Scalable+Digital+Experiences;%F0%9F%A4%96+Deep+Learning+%26+Neural+Network+Researcher;%F0%9F%8C%90+React+%E2%80%A2+Flutter+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+AWS;%E2%9A%A1+From+Hargeisa+to+the+Global+Tech+Stage+%F0%9F%8C%8D;%F0%9F%94%A5+Open+Source+Contributor+%26+Problem+Solver" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        BADGES ROW                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- ANIMATED BADGES -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=pindhe&style=for-the-badge&color=0f3460&label=PROFILE+VIEWS" alt="Views"/>
+  <img src="https://komarev.com/ghpvc/?username=pindhe&style=for-the-badge&color=7c3aed&labelColor=0f0c29&label=PROFILE+VIEWS" alt="Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/pindhe?style=for-the-badge&color=302b63&labelColor=0f0c29&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/pindhe?style=for-the-badge&color=00f7ff&labelColor=0f0c29&label=FOLLOWERS&logo=github" alt="Followers"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/pindhe?style=for-the-badge&color=24243e&labelColor=302b63&label=STARS" alt="Stars"/>
+  <img src="https://img.shields.io/github/stars/pindhe?style=for-the-badge&color=a78bfa&labelColor=0f0c29&label=TOTAL+STARS&logo=github" alt="Stars"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-00ff88?style=for-the-badge&labelColor=0f0c29&logo=statuspage" alt="Status"/>
 </p>
+
+<!-- WAVE DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 </div>
 
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                         ABOUT ME                                -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
 
-## 🌌 About Me
+## 🌌 `whoami`
 
 ```yaml
-Name       : Nour Hassan Pindhe
-Handle     : @pindhe
-Role       : Technology IT
-Location   : 🌍 Hargeisa, Somaliland
-Status     : Open to Work & Collaboration
-
-Passion    :
-  - Building scalable web & mobile apps
-  - AI/ML research & implementation
-  - Clean architecture & system design
-  - UI/UX & modern digital experiences
-
-Currently  :
-  - Exploring Deep Learning & Neural Nets
-  - Building Flutter & React Native apps
-  - Mastering Cloud (AWS & GCP)
-  - Contributing to Open Source
-
-Fun Facts  :
-  - I love solving complex problems 🧩
-  - Always curious about new tech 💭
-  - Believer in continuous learning 🚀
-  - Coffee + Code = Magic ☕
+╭─────────────────────────────────────────╮
+│  👤  Nour Hassan Pindhe (@pindhe)       │
+│  💼  Technology IT Engineer             │
+│  📍  Hargeisa, Somaliland 🌍            │
+│  📬  kharash420@gmail.com               │
+│  🟢  Status: Open to Work & Collab      │
+├─────────────────────────────────────────┤
+│  PASSIONS:                              │
+│    🏗️  Scalable web & mobile systems   │
+│    🧠  AI/ML research & deployment      │
+│    🎨  Clean architecture & UI/UX       │
+│    🔬  Deep Learning experiments        │
+├─────────────────────────────────────────┤
+│  CURRENTLY LEARNING:                    │
+│    🔷  LLMs & Retrieval-Augmented Gen  │
+│    📱  Advanced Flutter animations      │
+│    ☁️  AWS Solutions Architect path    │
+│    🦀  Exploring Rust for systems      │
+├─────────────────────────────────────────┤
+│  FUN FACTS:                             │
+│    🧩  Complex problems = my hobby      │
+│    ☕  Coffee-to-code converter         │
+│    🚀  Ships fast, learns faster        │
+│    💭  Always asking "what if...?"      │
+╰─────────────────────────────────────────╯
 ```
 
 </td>
 <td width="45%" valign="top" align="center">
 
-<br/><br/>
+<br/>
 
-<img src="https://i.pinimg.com/originals/a1/cc/9b/a1cc9b7bc71717eeb3ac0b9827b15437.gif" width="280" style="border-radius:20px"/>
+<img src="https://i.pinimg.com/originals/a1/cc/9b/a1cc9b7bc71717eeb3ac0b9827b15437.gif" width="290" style="border-radius:24px; box-shadow: 0 0 30px #7c3aed;"/>
 
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00f7ff?style=for-the-badge&labelColor=0f0c29)](https://agent-6a00c75984a79e0f35643c39--eng-pindhe.netlify.app/)
-[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-a78bfa?style=for-the-badge&labelColor=302b63)](mailto:kharash420@gmail.com)
+&nbsp;
+[![Email](https://img.shields.io/badge/📧_Email-Hire_Me-a78bfa?style=for-the-badge&labelColor=0f0c29)](mailto:kharash420@gmail.com)
+
+<br/>
+
+<!-- ANIMATED SNAKE GRAPH -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pindhe/pindhe/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pindhe/pindhe/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pindhe/pindhe/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK TABLES                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                       TECH ARSENAL                              -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
 ### 🎨 Frontend Development
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/>
-      <br><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/>
-      <br><sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/>
-      <br><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/>
-      <br><sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
-      <br><sub><b>React</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
-      <br><sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/>
-      <br><sub><b>Bootstrap</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter"/>
-      <br><sub><b>Flutter</b></sub>
-    </td>
-  </tr>
-</table>
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
 ### ⚙️ Backend Development
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS"/>
-      <br><sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/>
-      <br><sub><b>Express</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
-      <br><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django"/>
-      <br><sub><b>Django</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/>
-      <br><sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring"/>
-      <br><sub><b>Spring</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/>
-      <br><sub><b>PHP</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=csharp" width="48" height="48" alt="C#"/>
-      <br><sub><b>C#</b></sub>
-    </td>
-  </tr>
-</table>
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net/)
 
 ### 🗄️ Databases & Storage
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
-      <br><sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
-      <br><sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
-      <br><sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/>
-      <br><sub><b>Redis</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/>
-      <br><sub><b>Firebase</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite"/>
-      <br><sub><b>SQLite</b></sub>
-    </td>
-  </tr>
-</table>
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 
 ### ☁️ DevOps, Cloud & Tools
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org/)
+[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
-      <br><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
-      <br><sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
-      <br><sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/>
-      <br><sub><b>AWS</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP"/>
-      <br><sub><b>GCP</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx"/>
-      <br><sub><b>Nginx</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka"/>
-      <br><sub><b>Kafka</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode"/>
-      <br><sub><b>VS Code</b></sub>
-    </td>
-  </tr>
-</table>
-
-### 🤖 AI / Machine Learning Stack
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
-      <br><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/>
-      <br><sub><b>TensorFlow</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/>
-      <br><sub><b>PyTorch</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=scikitlearn" width="48" height="48" alt="Scikit-Learn"/>
-      <br><sub><b>Scikit-Learn</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas"/>
-      <br><sub><b>Pandas</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy"/>
-      <br><sub><b>NumPy</b></sub>
-    </td>
-  </tr>
-</table>
+### 🤖 AI / Machine Learning
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   SKILL PROGRESS BARS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                     SKILL PROFICIENCY                           -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## 📊 Skill Proficiency
+
+<div align="center">
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**Frontend & Mobile**
+**🎨 Frontend & Mobile**
 ```
-React / Next.js    ████████████████░░░  85%
-Flutter / Dart     ███████████████░░░░  78%
-TypeScript         ██████████████░░░░░  75%
-Tailwind CSS       █████████████████░░  88%
-React Native       ████████████░░░░░░░  65%
+React / Next.js    ████████████████░░  85% ⭐
+Tailwind CSS       █████████████████░  88% ⭐
+Flutter / Dart     ███████████████░░░  78%
+TypeScript         ██████████████░░░░  75%
+React Native       ████████████░░░░░░  65%
 ```
 
-**Backend**
+**⚙️ Backend**
 ```
-Node.js / Express  ████████████████░░░  85%
-Python / Django    ███████████████░░░░  78%
-Java / Spring      ████████████░░░░░░░  62%
-PHP                ████████████░░░░░░░  60%
+Node.js / Express  ████████████████░░  85% ⭐
+Python / Django    ███████████████░░░  78%
+Java / Spring      ████████████░░░░░░  62%
+PHP / Laravel      ████████████░░░░░░  60%
+FastAPI            █████████████░░░░░  68%
 ```
 
 </td>
 <td width="50%" valign="top">
 
-**Databases & Cloud**
+**🗄️ Database & Cloud**
 ```
-MongoDB            ████████████████░░░  82%
-MySQL / PostgreSQL ████████████████░░░  84%
-Firebase           ███████████████░░░░  76%
-Docker / DevOps    ████████████░░░░░░░  63%
-AWS / GCP          ██████████░░░░░░░░░  52%
+MySQL/PostgreSQL   ████████████████░░  84% ⭐
+MongoDB            ████████████████░░  82%
+Firebase           ███████████████░░░  76%
+Docker / DevOps    ████████████░░░░░░  63%
+AWS / GCP          ██████████░░░░░░░░  52%
 ```
 
-**AI & Data Science**
+**🤖 AI & Data Science**
 ```
-TensorFlow/PyTorch ████████████░░░░░░░  63%
-Scikit-Learn       █████████████░░░░░░  68%
-Data Analysis      ██████████████░░░░░  72%
-Deep Learning      ██████████░░░░░░░░░  55%
+Scikit-Learn       █████████████░░░░░  68%
+Data Analysis      ██████████████░░░░  72%
+TensorFlow/PyTorch ████████████░░░░░░  63%
+Deep Learning      ██████████░░░░░░░░  55%
+LLMs / RAG         █████████░░░░░░░░░  48% 🔥
 ```
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                    GITHUB STATS (DYNAMIC)                       -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## 📈 GitHub Analytics
 
@@ -340,145 +224,197 @@ Deep Learning      ██████████░░░░░░░░░  55
 <table>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=pindhe&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&bg_color=0f0c29,302b63,24243e&title_color=00f7ff&icon_color=a78bfa&text_color=ffffff" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pindhe&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&include_all_commits=true&count_private=true&bg_color=0f0c29,302b63,24243e&title_color=00f7ff&icon_color=a78bfa&text_color=ffffff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="210"/>
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pindhe&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&bg_color=0f0c29,302b63,24243e&title_color=00f7ff&text_color=ffffff" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pindhe&layout=donut&theme=tokyonight&hide_border=true&border_radius=18&langs_count=8&bg_color=0f0c29,302b63,24243e&title_color=00f7ff&text_color=ffffff" height="210"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pindhe&theme=tokyonight&hide_border=true&border_radius=15&background=0f0c2930&ring=00f7ff&fire=a78bfa&currStreakLabel=00f7ff&sideLabels=ffffff&dates=a0a0b0" height="180"/>
+<!-- STREAK STATS -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pindhe&theme=tokyonight&hide_border=true&border_radius=18&background=0f0c29&ring=00f7ff&fire=a78bfa&currStreakLabel=00f7ff&sideLabels=ffffff&dates=a0a0b0&currStreakNum=ffffff&sideNums=00f7ff" height="185" width="680"/>
+
+<br/>
+
+<!-- GITHUB METRICS CARD -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pindhe&theme=tokyonight" width="740"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ACTIVITY GRAPH                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                   3D CONTRIBUTION GRAPH                         -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## 🌊 Contribution Activity
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pindhe&bg_color=0f0c29&color=00f7ff&line=a78bfa&point=ffffff&area=true&hide_border=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pindhe&bg_color=0f0c29&color=00f7ff&line=a78bfa&point=00f7ff&area=true&area_color=7c3aed&hide_border=true&radius=16&custom_title=Nour%27s%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- 3D ISOMETRIC CONTRIBUTION CALENDAR -->
+<a href="https://github.com/pindhe">
+  <img src="https://github-contribution-graph.ez4o.com/?username=pindhe&theme=nord" width="720" alt="3D Contribution Calendar"/>
+</a>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TROPHIES                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                         TROPHIES                                -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pindhe&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=pindhe&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" width="100%"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    WHAT I'M BUILDING                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                   FEATURED PROJECTS                             -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/pindhe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pindhe&repo=pindhe&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0f0c29,302b63,24243e&title_color=00f7ff&icon_color=a78bfa&text_color=ffffff" />
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                   WHAT I'M BUILDING                             -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 ## 🔥 Currently Building
 
 <div align="center">
 
-<table>
-<tr>
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/🌐_Full_Stack-Web_Apps-00f7ff?style=for-the-badge&labelColor=0f0c29"/>
-    <br/><sub>Scalable Production Apps</sub>
-  </td>
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/📱_Mobile-Flutter_&_RN-a78bfa?style=for-the-badge&labelColor=302b63"/>
-    <br/><sub>Cross-Platform Apps</sub>
-  </td>
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/🤖_AI_&_ML-Deep_Learning-7c3aed?style=for-the-badge&labelColor=24243e"/>
-    <br/><sub>Neural Networks & Models</sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/☁️_Cloud-AWS_&_GCP-0ea5e9?style=for-the-badge&labelColor=0f0c29"/>
-    <br/><sub>Cloud Infrastructure</sub>
-  </td>
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/📊_DSA-System_Design-10b981?style=for-the-badge&labelColor=302b63"/>
-    <br/><sub>Algorithms & Architecture</sub>
-  </td>
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/🔓_Open_Source-Contributing-f59e0b?style=for-the-badge&labelColor=24243e"/>
-    <br/><sub>Community Projects</sub>
-  </td>
-</tr>
-</table>
+| 🌐 Full Stack Web | 📱 Mobile Apps | 🤖 AI & ML |
+|:---:|:---:|:---:|
+| ![Web](https://img.shields.io/badge/React%20%7C%20Node.js-Production_Apps-00f7ff?style=flat-square&labelColor=0f0c29) | ![Mobile](https://img.shields.io/badge/Flutter%20%7C%20RN-Cross--Platform-a78bfa?style=flat-square&labelColor=302b63) | ![AI](https://img.shields.io/badge/PyTorch%20%7C%20TF-Neural_Networks-7c3aed?style=flat-square&labelColor=24243e) |
+| Scalable Production Systems | Android & iOS Apps | LLMs & Deep Learning |
+
+| ☁️ Cloud & DevOps | 📊 System Design | 🔓 Open Source |
+|:---:|:---:|:---:|
+| ![Cloud](https://img.shields.io/badge/AWS%20%7C%20GCP-Cloud_Infra-0ea5e9?style=flat-square&labelColor=0f0c29) | ![DSA](https://img.shields.io/badge/DSA%20%7C%20Architecture-Algorithms-10b981?style=flat-square&labelColor=302b63) | ![OS](https://img.shields.io/badge/GitHub-Contributing-f59e0b?style=flat-square&labelColor=24243e) |
+| Containerized Microservices | Clean Architecture Patterns | Community Projects |
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CONNECT WITH ME                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                  REALTIME CODING TIME (WAKATIME)                -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## 🌐 Let's Connect
+## ⏱️ Coding Time (WakaTime)
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/pindhe.svg?style=for-the-badge)](https://wakatime.com/@pindhe)
+
+<!--
+  💡 To enable live WakaTime stats, connect your account at:
+     https://wakatime.com and add the WakaTime plugin to your editor.
+     Then uncomment this line with your actual username:
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=pindhe&theme=tokyonight&hide_border=true&border_radius=16&bg_color=0f0c29,302b63,24243e&title_color=00f7ff&text_color=ffffff"/>
+-->
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                      CONNECT WITH ME                            -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🌐 Let's Connect & Collaborate
 
 <div align="center">
 
 <a href="https://linkedin.com/in/nour-pindhe-44b711312">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://github.com/pindhe">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:kharash420@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://facebook.com/pindhe2k">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://instagram.com/pindhe_1">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://pindhe8.wordpress.com/">
   <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://agent-6a00c75984a79e0f35643c39--eng-pindhe.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     RANDOM DEV QUOTE                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
+<!-- DYNAMIC QUOTE -->
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       FOOTER WAVE                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                   SUPPORT / BUY ME A COFFEE                     -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks+for+visiting!+Let%27s+build+something+amazing+🚀&fontSize=18&fontColor=00f7ff&animation=twinkling&fontAlignY=70"/>
+### 💙 Support My Work
+
+[![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pindhe)
+&nbsp;
+[![GitHub Sponsor](https://img.shields.io/badge/💖_Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/pindhe)
 
 </div>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--                        FOOTER WAVE                              -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:7c3aed,100:00f7ff&height=140&section=footer&text=Thanks+for+visiting!+Let%27s+build+something+amazing+%F0%9F%9A%80&fontSize=17&fontColor=ffffff&animation=twinkling&fontAlignY=72"/>
+
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--   📌 SETUP NOTES FOR SNAKE ANIMATION:                         -->
+<!--   Add this GitHub Action to your repo to enable snake:         -->
+<!--   .github/workflows/snake.yml                                  -->
+<!--                                                                -->
+<!--   on: schedule: - cron: "0 */12 * * *"                        -->
+<!--   uses: Platane/snk@v3                                         -->
+<!--   with: github_user_name: pindhe                               -->
+<!--         outputs: |                                              -->
+<!--           dist/github-snake.svg                                 -->
+<!--           dist/github-snake-dark.svg?palette=github-dark        -->
+<!-- ══════════════════════════════════════════════════════════════ -->

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER — capsule-render (very reliable) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Eng%20Nour%20Hassan%20Pindhe&descSize=18&descAlignY=58&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Eng%20Nour%20Hassan%20Pindhe&fontSize=50&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&descSize=18&descAlignY=58&descColor=a78bfa"/>
 
 <!-- TYPING ANIMATION — demolab (very reliable) -->
 <a href="https://git.io/typing-svg">
@@ -293,4 +293,4 @@ LLMs / RAG         █████████░░░░░░░░░  48% �
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Thanks+for+visiting!+Let%27s+build+something+amazing+%F0%9F%9A%80&fontSize=17&fontColor=00f7ff&animation=twinkling&fontAlignY=72"/>
 
-</div> 
+</div> shp chat waxan rabaa inad update gareyso files readme kayga adoo qurxinya structure usamenya 3D animation so dhawena

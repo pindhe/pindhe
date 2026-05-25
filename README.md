@@ -123,7 +123,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org/)
 [![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
-### 🤖 AI / Machine Learning
+###  AI / Machine Learning
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
@@ -136,7 +136,7 @@
 
 ---
 
-## 📊 Skill Proficiency
+##  Skill Proficiency
 
 <table width="100%">
 <tr>
@@ -151,7 +151,7 @@ TypeScript         ██████████████░░░░  75%
 React Native       ████████████░░░░░░  65%
 ```
 
-**⚙️ Backend**
+** Backend**
 ```
 Node.js / Express  ████████████████░░  85% ⭐
 Python / Django    ███████████████░░░  78%
@@ -163,7 +163,7 @@ PHP / Laravel      ████████████░░░░░░  60%
 </td>
 <td width="50%" valign="top">
 
-**🗄️ Database & Cloud**
+** Database & Cloud**
 ```
 MySQL/PostgreSQL   ████████████████░░  84% ⭐
 MongoDB            ████████████████░░  82%
@@ -172,7 +172,7 @@ Docker / DevOps    ████████████░░░░░░  63%
 AWS / GCP          ██████████░░░░░░░░  52%
 ```
 
-**🤖 AI & Data Science**
+** AI & Data Science**
 ```
 Data Analysis      ██████████████░░░░  72%
 Scikit-Learn       █████████████░░░░░  68%

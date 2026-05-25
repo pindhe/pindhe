@@ -187,7 +187,7 @@ LLMs / RAG         █████████░░░░░░░░░  48% �
 
 ---
 
-## 📈 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -210,7 +210,7 @@ LLMs / RAG         █████████░░░░░░░░░  48% �
 
 ---
 
-## 🌊 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -220,7 +220,7 @@ LLMs / RAG         █████████░░░░░░░░░  48% �
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -230,11 +230,11 @@ LLMs / RAG         █████████░░░░░░░░░  48% �
 
 ---
 
-## 🔥 Currently Building
+##  Currently Building
 
 <div align="center">
 
-| 🌐 Full Stack Web | 📱 Mobile Apps | 🤖 AI & ML |
+|  Full Stack Web |  Mobile Apps |  AI & ML |
 |:---:|:---:|:---:|
 | ![Web](https://img.shields.io/badge/React%20%7C%20Node.js-Production_Apps-00f7ff?style=flat-square&labelColor=0f0c29) | ![Mobile](https://img.shields.io/badge/Flutter%20%7C%20RN-Cross--Platform-a78bfa?style=flat-square&labelColor=302b63) | ![AI](https://img.shields.io/badge/PyTorch%20%7C%20TF-Neural_Networks-7c3aed?style=flat-square&labelColor=24243e) |
 | Scalable Production Systems | Android & iOS Apps | LLMs & Deep Learning |
@@ -248,7 +248,7 @@ LLMs / RAG         █████████░░░░░░░░░  48% �
 
 ---
 
-## 🌐 Let's Connect & Collaborate
+##  Let's Connect & Collaborate
 
 <div align="center">
 

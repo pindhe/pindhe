@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- HEADER BANNER — capsule-render (very reliable) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Eng%20Nour%20Hassan%20Pindhe&fontSize=50&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&descSize=18&descAlignY=58&descColor=a78bfa"/>
 
 <!-- TYPING ANIMATION — demolab (very reliable) -->

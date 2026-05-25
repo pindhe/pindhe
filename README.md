@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Eng%20Nour%20Hassan%20Pindhe&fontSize=50&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&descSize=18&descAlignY=58&descColor=a78bfa"/>
 
-<!-- TYPING ANIMATION — demolab (very reliable) -->
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=%F0%9F%9A%80+Architecting+Scalable+Digital+Experiences;%F0%9F%A4%96+Deep+Learning+%26+Neural+Network+Researcher;%F0%9F%8C%90+React+%E2%80%A2+Flutter+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+AWS;%E2%9A%A1+From+Hargeisa+to+the+Global+Tech+Stage+%F0%9F%8C%8D;%F0%9F%94%A5+Open+Source+Contributor+%26+Problem+Solver" alt="Typing SVG" />
 </a>

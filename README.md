@@ -9,7 +9,8 @@
 
 <br/>
 
-<!-- BADGES — shields.io (100% reliable) -->
+
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=pindhe&style=for-the-badge&color=7c3aed&labelColor=0f0c29&label=PROFILE+VIEWS" alt="Views"/>
   &nbsp;

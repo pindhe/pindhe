@@ -25,12 +25,12 @@
 
 ---
 
-<!-- ABOUT ME -->
+
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
 
-## 🌌 `whoami`
+## 🌌 `who am i`
 
 ```yaml
 ╭─────────────────────────────────────────╮
@@ -65,7 +65,7 @@
 
 <br/>
 
-<!-- CODING GIF — raw.githubusercontent reliable source -->
+
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Coding animation"/>
 
 <br/><br/>
@@ -142,7 +142,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**🎨 Frontend & Mobile**
+** Frontend & Mobile**
 ```
 React / Next.js    ████████████████░░  85% ⭐
 Tailwind CSS       █████████████████░  88% ⭐
@@ -191,7 +191,7 @@ LLMs / RAG         █████████░░░░░░░░░  48% �
 
 <div align="center">
 
-<!-- github-readme-stats — most reliable stats service -->
+
 <table>
 <tr>
 <td>
@@ -203,7 +203,7 @@ LLMs / RAG         █████████░░░░░░░░░  48% �
 </tr>
 </table>
 
-<!-- streak stats -->
+
 <img src="https://streak-stats.demolab.com/?user=pindhe&theme=tokyonight&hide_border=true&border_radius=16&background=0f0c29&ring=00f7ff&fire=a78bfa&currStreakLabel=00f7ff&sideLabels=ffffff&dates=a0a0b0&currStreakNum=ffffff&sideNums=00f7ff" height="185" width="680"/>
 
 </div>

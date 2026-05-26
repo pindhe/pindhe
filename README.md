@@ -36,12 +36,12 @@
 ╭─────────────────────────────────────────╮
 │  👤  Nour Hassan Pindhe (@pindhe)       │
 │  💼  Technology IT Engineer             │
-│  📍  Hargeisa, Somaliland 🌍            │
+│  📍  Hargeisa, Somaliland               │
 │  📬  kharash420@gmail.com               │
 │  🟢  Status: Open to Work & Collab      │
 ├─────────────────────────────────────────┤
 │  PASSIONS:                              │
-│    🏗️  Scalable web & mobile systems   │
+│    🏗️  Scalable web & mobile systems    │
 │    🧠  AI/ML research & deployment      │
 │    🎨  Clean architecture & UI/UX       │
 │    🔬  Deep Learning experiments        │

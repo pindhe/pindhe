@@ -343,11 +343,5 @@ LLMs / RAG          █████████░░░░░░░░  48% �
 
 <div align="center">
 
-**⚡ Made with passion from Hargeisa, Somaliland 🇸🇴 | © 2025 Nour Hassan Pindhe**
+**⚡ Made with passion from Hargeisa, Somaliland 🇸🇴 | © 2025 Pindhe**
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Thanks+for+visiting!+Let%27s+build+something+amazing+%F0%9F%9A%80&fontSize=17&fontColor=00f7ff&animation=twinkling&fontAlignY=72"/>
-
-</div> shp chat waxan rabaa inad update gareyso files readme kayga adoo qurxinya structure usamenya 3D animation so dhawena

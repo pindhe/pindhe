@@ -326,6 +326,4 @@ LLMs / RAG          █████████░░░░░░░░  48% �
 
 **⚡ Made with passion from Hargeisa, Somaliland 🇸🇴 | © 2025 Nour Hassan Pindhe**
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
 </div>

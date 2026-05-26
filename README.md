@@ -1,7 +1,12 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&height=280&section=header&text=Eng%20Nour%20Hassan%20Pindhe&fontSize=52&fontColor=00f7ff&animation=fadeIn&fontAlignY=40&desc=Welcome%20to the%20%7C%20AI%20Researcher%20%7C%20Open%20Source%20Builder&descSize=17&descAlignY=62&descColor=c084fc&stroke=00f7ff&strokeWidth=1"/>
+<!-- ANIMATED CYBER HEADER -->
+<img width="100%" 
+src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,25:0b1f4d,50:1a0933,75:12071f,100:050816&text=Eng%20Nour%20Hassan%20Pindhe&fontSize=50&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20the%20World%20of%20Technology&descSize=20&descAlignY=60&descColor=c084fc&stroke=00f7ff&strokeWidth=1.2" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;UI%2FUX+Designer;AI+%26+Automation+Enthusiast;Building+Modern+Digital+Experiences;Welcome+to+the+Future+of+Technology+%F0%9F%9A%80" />
+</p>
 
 
 <!-- TYPING ANIMATION -->

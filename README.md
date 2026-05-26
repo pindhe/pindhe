@@ -1,13 +1,7 @@
 <div align="center">
 
-<!-- ANIMATED CYBER HEADER -->
-<img width="100%" 
-src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,25:0b1f4d,50:1a0933,75:12071f,100:050816&text=Eng%20Nour%20Hassan%20Pindhe&fontSize=50&fontColor=00f7ff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20the%20World%20of%20Technology&descSize=20&descAlignY=60&descColor=c084fc&stroke=00f7ff&strokeWidth=1.2" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;UI%2FUX+Designer;AI+%26+Automation+Enthusiast;Building+Modern+Digital+Experiences;Welcome+to+the+Future+of+Technology+%F0%9F%9A%80" />
-</p>
-
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&height=280&section=header&text=Eng%20Nour%20Hassan%20Pindhe&fontSize=52&fontColor=00f7ff&animation=fadeIn&fontAlignY=40&desc=Technology%20Engineer%20%7C%20AI%20Researcher%20%7C%20Open%20Source%20Builder&descSize=17&descAlignY=62&descColor=c084fc&stroke=00f7ff&strokeWidth=1"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -131,62 +125,43 @@ src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816
 
 ---
 
-##  Tech Arsenal
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-###  Frontend Development
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+### 🎨 Frontend & Mobile
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter&theme=dark&perline=8"/>
+</p>
 
-###  Backend Development
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com/)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net/)
+### ⚙️ Backend & APIs
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,java,spring,php&theme=dark&perline=8"/>
+</p>
 
-###  Databases & Storage
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/)
+### 🗄️ Databases & Storage
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase,sqlite&theme=dark&perline=8"/>
+</p>
 
-###  DevOps, Cloud & Tools
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
-[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org/)
-[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+### ☁️ DevOps, Cloud & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,nginx,linux,vscode&theme=dark&perline=8"/>
+</p>
 
-###  AI / Machine Learning
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+### 🤖 AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=8"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+</p>
 
 </div>
 
 ---
-
 
 ## 📊 Skill Proficiency Matrix
 
@@ -349,5 +324,8 @@ LLMs / RAG          █████████░░░░░░░░  48% �
 
 <div align="center">
 
-**⚡ Made with passion from Hargeisa, Somaliland 🇸🇴 | © 2025 Pindhe**
+**⚡ Made with passion from Hargeisa, Somaliland 🇸🇴 | © 2025 Nour Hassan Pindhe**
 
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>

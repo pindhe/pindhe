@@ -146,7 +146,7 @@
 ```
 React / Next.js    ████████████████░░  85% ⭐
 Tailwind CSS       █████████████████░  88% ⭐
-Flutter / Dart     ███████████████░░░  78%
+Flutter / Dart     ███████████████░░░  78% ⭐
 TypeScript         ██████████████░░░░  75%
 React Native       ████████████░░░░░░  65%
 ```
@@ -154,8 +154,8 @@ React Native       ████████████░░░░░░  65%
 ** Backend**
 ```
 Node.js / Express  ████████████████░░  85% ⭐
-Python / Django    ███████████████░░░  78%
-FastAPI            █████████████░░░░░  68%
+Python / Django    ███████████████░░░  78% ⭐
+FastAPI            █████████████░░░░░  68% ⭐
 Java / Spring      ████████████░░░░░░  62%
 PHP / Laravel      ████████████░░░░░░  60%
 ```
@@ -174,7 +174,7 @@ AWS / GCP          ██████████░░░░░░░░  52%
 
 ** AI & Data Science**
 ```
-Data Analysis      ██████████████░░░░  72%
+Data Analysis      ██████████████░░░░  72% ⭐
 Scikit-Learn       █████████████░░░░░  68%
 TensorFlow/PyTorch ████████████░░░░░░  63%
 Deep Learning      ██████████░░░░░░░░  55%

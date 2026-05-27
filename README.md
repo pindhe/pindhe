@@ -106,9 +106,10 @@
 </table>
 
 ---
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Am+Nour+pindhe;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Am+Nour+Pindhe;Always+Learning+New+Things" />
 
 </div>
 

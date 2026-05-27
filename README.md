@@ -1,28 +1,5 @@
 
-React / Next.js    ████████████████░░  85% ⭐⭐⭐
-Tailwind CSS       █████████████████░  88% ⭐⭐⭐
-Flutter / Dart     ███████████████░░░  78% ⭐⭐
-TypeScript         ██████████████░░░░  75% ⭐⭐
-React Native       ████████████░░░░░░  65% ⭐⭐
-```
 
-**⚙️ Backend**
-```
-Node.js / Express  ████████████████░░  85% ⭐⭐⭐
-Python / Django    ███████████████░░░  78% ⭐⭐
-FastAPI            █████████████░░░░░  68% ⭐⭐
-Java / Spring      ████████████░░░░░░  62% ⭐
-PHP / Laravel      ████████████░░░░░░  60% ⭐
-```
-
-</td>
-<td width="50%" valign="top">
-
-**🗄️ Database & Cloud**
-```
-MySQL / PostgreSQL  ████████████████░  84% ⭐⭐⭐
-MongoDB             ████████████████░  82% ⭐⭐
-Firebase            ███████████████░░  76% ⭐⭐
 Docker / DevOps     ████████████░░░░░  63% ⭐
 AWS / GCP           ██████████░░░░░░░  52% ⭐
 ```

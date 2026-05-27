@@ -116,42 +116,7 @@ LLMs / RAG          █████████░░░░░░░░  48% �
 | ![Web](https://img.shields.io/badge/React%20%7C%20Next.js%20%7C%20Node.js-Production_Grade-00f7ff?style=flat-square&labelColor=0d1117) | ![Mobile](https://img.shields.io/badge/Flutter%20%7C%20React_Native-Cross--Platform-c084fc?style=flat-square&labelColor=0d1117) | ![AI](https://img.shields.io/badge/PyTorch%20%7C%20LangChain%20%7C%20RAG-Neural_Networks-7c3aed?style=flat-square&labelColor=0d1117) |
 | Scalable microservice systems | Android & iOS native UX | LLMs & Deep Learning research |
 
-| ☁️ Cloud & DevOps | 🏗️ System Design | 🔓 Open Source |
-|:---:|:---:|:---:|
-| ![Cloud](https://img.shields.io/badge/AWS%20%7C%20Docker%20%7C%20GCP-Cloud_Infra-0ea5e9?style=flat-square&labelColor=0d1117) | ![DSA](https://img.shields.io/badge/DSA%20%7C%20Architecture-Algorithms-10b981?style=flat-square&labelColor=0d1117) | ![OS](https://img.shields.io/badge/GitHub-Contributing_Daily-f59e0b?style=flat-square&labelColor=0d1117) |
-| Containerized microservices | Clean architecture patterns | Community-driven projects |
 
-</div>
-
----
-
-## 🌐 Connect & Collaborate
-
-<div align="center">
-
-<a href="https://linkedin.com/in/nour-pindhe-44b711312">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2"/>
-</a>
-&nbsp;
-<a href="https://github.com/pindhe">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:kharash420@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://facebook.com/pindhe2k">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/pindhe_1">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
 
 <div align="center">
 

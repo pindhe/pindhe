@@ -1,17 +1,3 @@
-<div align="center">
-
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&repeat=true&width=780&height=52&lines=%E2%9A%A1+Architecting+Scalable+Digital+Experiences;%F0%9F%A4%96+Deep+Learning+%26+LLM+Researcher;%F0%9F%8C%90+React+%E2%80%A2+Flutter+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+AWS;%F0%9F%9A%80+From+Hargeisa+%E2%86%92+Global+Tech+Stage+%F0%9F%8C%8D;%F0%9F%94%A5+Open+Source+Contributor+%26+Problem+Solver" alt="Typing SVG" />
-</a>
-
-<br/
-  <img src="https://img.shields.io/badge/Projects-30%2B%20Shipped-c084fc?style=flat-square&labelColor=0d1117&logo=rocket"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Hargeisa%2C%20Somaliland-f59e0b?style=flat-square&labelColor=0d1117&logo=googlemaps"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Availability-Freelance%20%26%20Full--Time-10b981?style=flat-square&labelColor=0d1117"/>
-</p>
 
 </div>
 

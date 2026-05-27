@@ -148,24 +148,6 @@ LLMs / RAG          █████████░░░░░░░░  48% �
 <a href="https://instagram.com/pindhe_1">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://pindhe8.wordpress.com/">
-  <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://agent-6a00c75984a79e0f35643c39--eng-pindhe.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<!-- QUOTE -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<br/>
-
-<!-- WAVE FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,40:0d1b4b,70:1a0533,100:0a0a1a&height=140&section=footer&text=Thanks+for+visiting!+Let%27s+build+something+legendary+%F0%9F%9A%80&fontSize=16&fontColor=00f7ff&animation=twinkling&fontAlignY=70"/>
 
 </div>
 

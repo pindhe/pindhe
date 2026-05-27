@@ -107,15 +107,29 @@
 
 ---
 
-## 🌊 3D Contribution Snake
+# 🌊 3D Contribution Snake
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pindhe/pindhe/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pindhe/pindhe/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pindhe/pindhe/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<img width="100%" src="https://raw.githubusercontent.com/pindhe/pindhe/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=pindhe&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+
+<br><br>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pindhe&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pindhe&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<br><br>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=pindhe&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 

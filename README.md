@@ -1,25 +1,4 @@
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=8"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-</p>
-
-</div>
-
----
-
-## 📊 Skill Proficiency Matrix
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🎨 Frontend & Mobile**
-```
 React / Next.js    ████████████████░░  85% ⭐⭐⭐
 Tailwind CSS       █████████████████░  88% ⭐⭐⭐
 Flutter / Dart     ███████████████░░░  78% ⭐⭐

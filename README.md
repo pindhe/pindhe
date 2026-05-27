@@ -110,11 +110,11 @@
 <div align="center">
 
 <img 
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&lines=✨+Welcome+to+my+GitHub+Profile!;👨‍💻+Am+Nour+Pindhe;🚀+Always+Learning+New+Things"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Am+Nour+Pindhe;Always+Learning+New+Things&repeat=true"
+style="filter: drop-shadow(0px 0px 14px #ffffff);"
 />
 
 </div>
----
 
 ## ⚡ Tech Arsenal
 

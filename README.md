@@ -313,51 +313,83 @@ LLMs / RAG          █████████░░░░░░░░  48% �
 
 ---
 
+<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d1b4b&height=60&text=🌐%20Connect%20%26%20Collaborate&fontSize=26&fontColor=c084fc&fontAlignY=65&animation=fadeIn&stroke=c084fc&strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b4b,100:1a0533&height=65&text=🌐%20Connect%20%26%20Collaborate&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn&stroke=ffffff&strokeWidth=1"/>
 
 </div>
 
 <br/>
 
+<!-- SOCIAL LINKS -->
 <div align="center">
 
+### 🤝 Let's Connect
+
 <a href="https://linkedin.com/in/nour-pindhe-44b711312">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://github.com/pindhe">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:kharash420@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
+
+</div>
+
+<br/>
+
+<!-- SOCIAL MEDIA -->
+<div align="center">
+
+### 🌍 Social Profiles
+
 <a href="https://facebook.com/pindhe2k">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://instagram.com/pindhe_1">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-&nbsp;
+
+</div>
+
+<br/>
+
+<!-- PROJECTS -->
+<div align="center">
+
+### 🚀 Projects & Portfolio
+
 <a href="https://pindhe8.wordpress.com/">
   <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://agent-6a00c75984a79e0f35643c39--eng-pindhe.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,40:0d1b4b,70:1a0533,100:0a0a1a&height=140&section=footer&text=Thanks+for+visiting!+Let%27s+build+something+legendary+%F0%9F%9A%80&fontSize=16&fontColor=00f7ff&animation=twinkling&fontAlignY=70"/>
+<!-- QUOTE -->
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b4b,100:1a0533&height=140&section=footer&text=Thanks+for+visiting!+🚀+Let’s+build+something+legendary&fontSize=16&fontColor=00f7ff&animation=fadeIn"/>
 
 </div>
 

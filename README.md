@@ -109,9 +109,26 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Am+Nour+Pindhe;Always+Learning+New+Things" />
+<img 
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Am+Nour+Pindhe;Always+Learning+New+Things&repeat=true"
+style="filter: drop-shadow(0px 0px 12px #ffffff); animation: float 3s ease-in-out infinite;" 
+/>
 
 </div>
+
+<style>
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+</style>
 
 ---
 

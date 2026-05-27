@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&height=280&section=header&text=Eng%20Nour%20Hassan%20Pindhe&fontSize=52&fontColor=00f7ff&animation=fadeIn&fontAlignY=40&desc=Technology%20Engineer%20%7C%20AI%20Researcher%20%7C%20Open%20Source%20Builder&descSize=17&descAlignY=62&descColor=c084fc&stroke=00f7ff&strokeWidth=1"/>
 
 <!-- TYPING ANIMATION -->

@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work%20🟢-00ff88?style=for-the-badge&labelColor=0d1117" alt="Status"/>
 </p>
 
-<!-- BADGE ROW 2 - SOCIAL PROOF -->
 <p>
   <img src="https://img.shields.io/badge/Experience-4%2B%20Years-00f7ff?style=flat-square&labelColor=0d1117&logo=calendar"/>
   &nbsp;

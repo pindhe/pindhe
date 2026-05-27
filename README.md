@@ -9,7 +9,6 @@
 
 <br/>
 
-<!-- BADGE ROW 1 -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=pindhe&style=for-the-badge&color=7c3aed&labelColor=0d1117&label=PROFILE+VIEWS" alt="Views"/>
   &nbsp;

@@ -33,7 +33,6 @@
 
 ---
 
-<!-- ABOUT ME SECTION -->
 <table width="100%">
 <tr>
 <td width="58%" valign="top">

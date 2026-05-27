@@ -1,28 +1,4 @@
 
-
-<div align="center">
-
-### 🎨 Frontend & Mobile
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter&theme=dark&perline=8"/>
-</p>
-
-### ⚙️ Backend & APIs
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,java,spring,php&theme=dark&perline=8"/>
-</p>
-
-### 🗄️ Databases & Storage
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase,sqlite&theme=dark&perline=8"/>
-</p>
-
-### ☁️ DevOps, Cloud & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,nginx,linux,vscode&theme=dark&perline=8"/>
-</p>
-
-### 🤖 AI / Machine Learning
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=8"/>
 &nbsp;

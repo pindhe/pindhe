@@ -360,7 +360,7 @@ LLMs / RAG          █████████░░░░░░░░  48% �
 
 <br/>
 
-<!-- PROJECTS -->
+
 <div align="center">
 
 ### 🚀 Projects & Portfolio

@@ -313,7 +313,7 @@ LLMs / RAG          █████████░░░░░░░░  48% �
 
 ---
 
-<!-- HEADER -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b4b,100:1a0533&height=65&text=🌐%20Connect%20%26%20Collaborate&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn&stroke=ffffff&strokeWidth=1"/>

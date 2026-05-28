@@ -386,7 +386,7 @@ LLMs / RAG          █████████░░░░░░░░  48% �
 
 <br/>
 
-<!-- FOOTER -->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b4b,100:1a0533&height=140&section=footer&text=Thanks+for+visiting!+🚀+Let’s+build+something+legendary&fontSize=16&fontColor=00f7ff&animation=fadeIn"/>

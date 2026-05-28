@@ -322,7 +322,7 @@ LLMs / RAG          █████████░░░░░░░░  48% �
 
 <br/>
 
-<!-- SOCIAL LINKS -->
+
 <div align="center">
 
 ### 🤝 Let's Connect

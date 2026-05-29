@@ -1,24 +1,109 @@
+<div align="center">
 
-  - LLMs & RAG Systems
-  - AWS Cloud Architecture
-  - Advanced Flutter
-  - System Design
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:0d1b4b,60:1a0533,100:0a0a1a&height=280&section=header&text=Eng%20Nour%20Hassan%20Pindhe&fontSize=52&fontColor=00f7ff&animation=fadeIn&fontAlignY=40&desc=Technology%20Engineer%20%7C%20AI%20Researcher%20%7C%20Open%20Source%20Builder&descSize=17&descAlignY=62&descColor=c084fc&stroke=00f7ff&strokeWidth=1"/>
 
-Philosophy:
-  "Build fast. Learn faster."
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&repeat=true&width=780&height=52&lines=%E2%9A%A1+Architecting+Scalable+Digital+Experiences;%F0%9F%A4%96+Deep+Learning+%26+LLM+Researcher;%F0%9F%8C%90+React+%E2%80%A2+Flutter+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+AWS;%F0%9F%9A%80+From+Hargeisa+%E2%86%92+Global+Tech+Stage+%F0%9F%8C%8D;%F0%9F%94%A5+Open+Source+Contributor+%26+Problem+Solver" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=pindhe&style=for-the-badge&color=7c3aed&labelColor=0d1117&label=PROFILE+VIEWS" alt="Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/pindhe?style=for-the-badge&color=00f7ff&labelColor=0d1117&label=FOLLOWERS&logo=github" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/pindhe?style=for-the-badge&color=c084fc&labelColor=0d1117&label=TOTAL+STARS&logo=github" alt="Stars"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work%20🟢-00ff88?style=for-the-badge&labelColor=0d1117" alt="Status"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-00f7ff?style=flat-square&labelColor=0d1117&logo=calendar"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Projects-30%2B%20Shipped-c084fc?style=flat-square&labelColor=0d1117&logo=rocket"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Hargeisa%2C%20Somaliland-f59e0b?style=flat-square&labelColor=0d1117&logo=googlemaps"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Availability-Freelance%20%26%20Full--Time-10b981?style=flat-square&labelColor=0d1117"/>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=400&height=50&lines=%F0%9F%A7%AC+%24+whoami" alt="whoami"/>
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+
+```yaml
+╭──────────────────────────────────────────────╮
+│                                              │
+│   👤  Nour Hassan Pindhe  [ @pindhe ]       │
+│   💼  Technology IT Engineer                │
+│   📍  Hargeisa, Somaliland  🌍              │
+│   📬  kharash420@gmail.com                  │
+│   🟢  Status: Open to Work & Collaboration  │
+│                                              │
+├──────────────────────────────────────────────┤
+│                                              │
+│   CORE EXPERTISE:                            │
+│   ✦  Full-Stack Web & Mobile Systems        │
+│   ✦  AI/ML Research & LLM Engineering       │
+│   ✦  Clean Architecture & System Design     │
+│   ✦  Cloud Infrastructure & DevOps          │
+│                                              │
+├──────────────────────────────────────────────┤
+│                                              │
+│   CURRENTLY LEARNING:                        │
+│   🔷  LLMs & Retrieval-Augmented Gen (RAG)  │
+│   📱  Advanced Flutter & Animations         │
+│   ☁️  AWS Solutions Architect (SAA-C03)    │
+│   🦀  Rust for Systems Programming          │
+│                                              │
+├──────────────────────────────────────────────┤
+│                                              │
+│   PERSONALITY.exe:                           │
+│   🧩  Complex problems = favorite hobby     │
+│   ☕  Coffee ──► Code ──► Ship ──► Repeat   │
+│   🚀  Ships fast. Learns faster.            │
+│   💭  Always asking "what if...?"           │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
 
 </td>
+<td width="42%" valign="top" align="center">
 
-<td width="40%" align="center">
+<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Coding GIF"/>
+</picture>
+
+<br/><br/>
+
+<a href="https://agent-6a00c75984a79e0f35643c39--eng-pindhe.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00f7ff?style=for-the-badge&labelColor=0d1117"/>
+</a>
 
 <br/><br/>
 
 <a href="mailto:kharash420@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Hire_Me-c084fc?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📧_Hire_Me-kharash420@gmail.com-c084fc?style=for-the-badge&labelColor=0d1117"/>
 </a>
+
+<br/><br/>
+
+> *"Code is poetry written for machines, but read by humans."*
 
 </td>
 </tr>
@@ -28,7 +113,18 @@ Philosophy:
 
 <div align="center">
 
-# ⚡ Tech Stack
+<img 
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Am+Nour+Pindhe;Always+Learning+New+Things&repeat=true"
+style="filter: drop-shadow(0px 0px 14px #ffffff);"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0533&height=60&text=⚡%20Tech%20Arsenal&fontSize=28&fontColor=00f7ff&fontAlignY=65&desc=&animation=fadeIn&stroke=00f7ff&strokeWidth=1"/>
 
 </div>
 
@@ -36,27 +132,40 @@ Philosophy:
 
 <div align="center">
 
-### 🎨 Frontend & Mobile
+### <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=2000&color=FF79C6&center=true&vCenter=true&width=320&height=35&lines=🎨+Frontend+%26+Mobile" alt="Frontend"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter&theme=dark"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter&theme=dark&perline=8"/>
+</p>
 
----
+### <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=2000&color=50FA7B&center=true&vCenter=true&width=300&height=35&lines=⚙️+Backend+%26+APIs" alt="Backend"/>
 
-### ⚙️ Backend & APIs
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,java,spring,php&theme=dark&perline=8"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,java,spring&theme=dark"/>
+### <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=2000&color=F1FA8C&center=true&vCenter=true&width=380&height=35&lines=🗄️+Databases+%26+Storage" alt="Databases"/>
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,supabase,sqlite&theme=dark&perline=8"/>
+</p>
 
-### 🗄️ Databases & Cloud
+### <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=2000&color=8BE9FD&center=true&vCenter=true&width=380&height=35&lines=☁️+DevOps%2C+Cloud+%26+Tools" alt="DevOps"/>
 
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase,supabase,redis,docker,aws&theme=dark"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,nginx,linux,vscode&theme=dark&perline=8"/>
+</p>
 
----
+### <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=2000&color=BD93F9&center=true&vCenter=true&width=380&height=35&lines=🤖+AI+%2F+Machine+Learning" alt="AI"/>
 
-### 🤖 AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark"/>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=8"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+</p>
 
 </div>
 
@@ -64,7 +173,64 @@ Philosophy:
 
 <div align="center">
 
-# 📊 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0533&height=60&text=📊%20Skill%20Proficiency%20Matrix&fontSize=24&fontColor=c084fc&fontAlignY=65&animation=fadeIn&stroke=c084fc&strokeWidth=1"/>
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🎨 Frontend & Mobile**
+```
+React / Next.js    ████████████████░░  85% ⭐⭐⭐
+Tailwind CSS       █████████████████░  88% ⭐⭐⭐
+Flutter / Dart     ███████████████░░░  78% ⭐⭐
+TypeScript         ██████████████░░░░  75% ⭐⭐
+React Native       ████████████░░░░░░  65% ⭐⭐
+```
+
+**⚙️ Backend**
+```
+Node.js / Express  ████████████████░░  85% ⭐⭐⭐
+Python / Django    ███████████████░░░  78% ⭐⭐
+FastAPI            █████████████░░░░░  68% ⭐⭐
+Java / Spring      ████████████░░░░░░  62% ⭐
+PHP / Laravel      ████████████░░░░░░  60% ⭐
+```
+
+</td>
+<td width="50%" valign="top">
+
+**🗄️ Database & Cloud**
+```
+MySQL / PostgreSQL  ████████████████░  84% ⭐⭐⭐
+MongoDB             ████████████████░  82% ⭐⭐
+Firebase            ███████████████░░  76% ⭐⭐
+Docker / DevOps     ████████████░░░░░  63% ⭐
+AWS / GCP           ██████████░░░░░░░  52% ⭐
+```
+
+**🤖 AI & Data Science**
+```
+Data Analysis       ██████████████░░░  72% ⭐⭐
+Scikit-Learn        █████████████░░░░  68% ⭐⭐
+TensorFlow/PyTorch  ████████████░░░░░  63% ⭐
+Deep Learning       ██████████░░░░░░░  55% ⭐
+LLMs / RAG          █████████░░░░░░░░  48% 🔥
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1b4b&height=60&text=📈%20GitHub%20Analytics&fontSize=26&fontColor=00f7ff&fontAlignY=65&animation=fadeIn&stroke=00f7ff&strokeWidth=1"/>
 
 </div>
 
@@ -72,53 +238,158 @@ Philosophy:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pindhe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=c084fc"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pindhe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=pindhe&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=c084fc"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🚀 Current Focus
-
-| 🌐 Web Development |    📱 Mobile Apps    | 🤖 AI Engineering |
-| :----------------: | :------------------: | :---------------: |
-|   React / Next.js  |        Flutter       |     LLMs & RAG    |
-|    FastAPI APIs    |   Cross-platform UX  |   Deep Learning   |
-|  Modern UI Systems | Firebase Integration |    AI Research    |
-
-</div>
-
----
-
-<div align="center">
-
-# 🌍 Connect With Me
+<table>
+<tr>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pindhe&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f7ff&icon_color=c084fc&text_color=ffffff&ring_color=00f7ff" height="210" alt="GitHub Stats"/>
+</td>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pindhe&layout=donut&theme=tokyonight&hide_border=true&border_radius=16&langs_count=8&bg_color=0d1117&title_color=00f7ff&text_color=ffffff" height="210" alt="Top Languages"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<a href="https://github.com/pindhe">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://streak-stats.demolab.com/?user=pindhe&theme=tokyonight&hide_border=true&border_radius=16&background=0d1117&ring=00f7ff&fire=c084fc&currStreakLabel=00f7ff&sideLabels=ffffff&dates=a0a0b0&currStreakNum=ffffff&sideNums=00f7ff&stroke=0d1117" height="190" width="700" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d1117&height=60&text=🎯%20Activity%20Graph&fontSize=26&fontColor=c084fc&fontAlignY=65&animation=fadeIn&stroke=c084fc&strokeWidth=1"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pindhe&bg_color=0d1117&color=00f7ff&line=c084fc&point=ffffff&area=true&area_color=1a0533&hide_border=true&radius=16&custom_title=Nour%27s%20Contribution%20Timeline)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b4b,100:0d1117&height=60&text=🏆%20GitHub%20Trophies&fontSize=26&fontColor=f59e0b&fontAlignY=65&animation=fadeIn&stroke=f59e0b&strokeWidth=1"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pindhe&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=7&no-bg=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0533&height=60&text=🚀%20What%20I'm%20Building&fontSize=26&fontColor=00f7ff&fontAlignY=65&animation=fadeIn&stroke=00f7ff&strokeWidth=1"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🌐 Full-Stack Web | 📱 Mobile Apps | 🤖 AI & ML |
+|:---:|:---:|:---:|
+| ![Web](https://img.shields.io/badge/React%20%7C%20Next.js%20%7C%20Node.js-Production_Grade-00f7ff?style=flat-square&labelColor=0d1117) | ![Mobile](https://img.shields.io/badge/Flutter%20%7C%20React_Native-Cross--Platform-c084fc?style=flat-square&labelColor=0d1117) | ![AI](https://img.shields.io/badge/PyTorch%20%7C%20LangChain%20%7C%20RAG-Neural_Networks-7c3aed?style=flat-square&labelColor=0d1117) |
+| Scalable microservice systems | Android & iOS native UX | LLMs & Deep Learning research |
+
+| ☁️ Cloud & DevOps | 🏗️ System Design | 🔓 Open Source |
+|:---:|:---:|:---:|
+| ![Cloud](https://img.shields.io/badge/AWS%20%7C%20Docker%20%7C%20GCP-Cloud_Infra-0ea5e9?style=flat-square&labelColor=0d1117) | ![DSA](https://img.shields.io/badge/DSA%20%7C%20Architecture-Algorithms-10b981?style=flat-square&labelColor=0d1117) | ![OS](https://img.shields.io/badge/GitHub-Contributing_Daily-f59e0b?style=flat-square&labelColor=0d1117) |
+| Containerized microservices | Clean architecture patterns | Community-driven projects |
+
+</div>
+
+---
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b4b,100:1a0533&height=65&text=🌐%20Connect%20%26%20Collaborate&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn&stroke=ffffff&strokeWidth=1"/>
+
+</div>
+
+<br/>
+
+
+<div align="center">
+
+### 🤝 Let's Connect
 
 <a href="https://linkedin.com/in/nour-pindhe-44b711312">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pindhe">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:kharash420@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- SOCIAL MEDIA -->
+<div align="center">
+
+### 🌍 Social Profiles
+
+<a href="https://facebook.com/pindhe2k">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/pindhe_1">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+</div>
+
+<br/>
+
+
+<div align="center">
+
+### 🚀 Projects & Portfolio
+
+<a href="https://pindhe8.wordpress.com/">
+  <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+</a>
+
+<a href="https://agent-6a00c75984a79e0f35643c39--eng-pindhe.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- QUOTE -->
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<br/>
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b4b,100:1a0533&height=140&section=footer&text=Thanks+for+visiting!+🚀+Let’s+build+something+legendary&fontSize=16&fontColor=00f7ff&animation=fadeIn"/>
 
 </div>
 
@@ -126,12 +397,6 @@ Philosophy:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:0d1b4b,100:1a0533&height=120&section=footer&text=Thanks+for+visiting+🚀&fontSize=18&fontColor=00f7ff"/>
+**⚡ Made with passion from Hargeisa, Somaliland 🇸🇴 | © 2025 Nour Hassan Pindhe**
 
-</div>
-
-<div align="center">
-
-### ⚡ Made with passion from Somaliland 🇸🇴
-
-</div>
+</div> update kana 

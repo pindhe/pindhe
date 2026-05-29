@@ -399,4 +399,4 @@ LLMs / RAG          █████████░░░░░░░░  48% �
 
 **⚡ Made with passion from Hargeisa, Somaliland 🇸🇴 | © 2025 Nour Hassan Pindhe**
 
-</div> update kana 
+</div>

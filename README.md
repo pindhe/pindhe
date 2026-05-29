@@ -1,8 +1,4 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,40:0d1b4b,70:1a0533,100:0a0a1a&height=260&section=header&text=Eng%20Nour%20Hassan%20Pindhe&fontSize=48&fontColor=00f7ff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20•%20AI%20Engineer%20•%20Open%20Source%20Builder&descSize=18&descAlignY=63&descColor=c084fc"/>
-
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&repeat=true&width=780&height=45&lines=⚡+Building+Modern+Digital+Experiences;🤖+AI+%26+LLM+Engineering;🌐+React+•+Flutter+•+Python+•+FastAPI;🚀+Open+Source+Contributor+from+Somaliland"/>
 

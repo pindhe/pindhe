@@ -1,19 +1,4 @@
 
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&repeat=true&width=780&height=45&lines=⚡+Building+Modern+Digital+Experiences;🤖+AI+%26+LLM+Engineering;🌐+React+•+Flutter+•+Python+•+FastAPI;🚀+Open+Source+Contributor+from+Somaliland"/>
-
-<br/>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=pindhe&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/pindhe?style=for-the-badge&color=00f7ff&label=FOLLOWERS&logo=github"/>
-  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-00ff88?style=for-the-badge"/>
-</p>
-
-</div>
-
----
-
 # 🧬 About Me
 
 <table>

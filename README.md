@@ -169,8 +169,6 @@ style="filter: drop-shadow(0px 0px 14px #ffffff);"
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0533&height=60&text=📊%20Skill%20Proficiency%20Matrix&fontSize=24&fontColor=c084fc&fontAlignY=65&animation=fadeIn&stroke=c084fc&strokeWidth=1"/>

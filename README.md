@@ -24,7 +24,6 @@
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
----
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NourHassan.NourHassan)
 ⭐ **From [Nour Hassan Pindhe](https://github.com/NourHassan) — Building tomorrow, today.**

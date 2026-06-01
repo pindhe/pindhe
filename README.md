@@ -10,7 +10,7 @@
 
 ```
 
-# Hi there, I'm **Eng. Nour Hassan Pindhe** 👋
+# Hi there, I'm **Eng. Nour H Pindhe** 👋
 
 ### Full Stack Developer · UI/UX Designer · AI Engineer
 

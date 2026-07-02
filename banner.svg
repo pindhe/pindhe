@@ -86,7 +86,8 @@
     </text>
 
     <text x="790" y="250" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="40" fill="#facc15" fill-opacity="0.3">
-      { AI }
+       
+AI 
       <animate attributeName="y" values="250;262;250" dur="4s" repeatCount="indefinite"/>
     </text>
 
@@ -105,7 +106,7 @@
     <g transform="translate(450,236)">
       <rect x="-190" y="-18" width="380" height="36" rx="18" fill="#0f172a" stroke="#22d3ee" stroke-opacity="0.5"/>
       <text x="0" y="6" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#67e8f9">
-        🤖 Building AI-Powered Solutions from Hargeisa, Somaliland
+        🤖 Hargeisa, Somaliland
       </text>
     </g>
 

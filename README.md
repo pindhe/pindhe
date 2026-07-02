@@ -1,3 +1,123 @@
+<svg width="100%" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050810"/>
+      <stop offset="45%" stop-color="#0b1024"/>
+      <stop offset="100%" stop-color="#150a2e"/>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#facc15"/>
+    </linearGradient>
+
+    <linearGradient id="subGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="100%" stop-color="#c4b5fd"/>
+    </linearGradient>
+
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <radialGradient id="orbGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#67e8f9" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#67e8f9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbGlow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#facc15" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#facc15" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="frameClip">
+      <rect x="0" y="0" width="900" height="320" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frameClip)">
+    <rect width="900" height="320" fill="url(#bgGrad)"/>
+
+    <!-- ambient glow orbs -->
+    <circle cx="120" cy="60" r="140" fill="url(#orbGlow)">
+      <animate attributeName="opacity" values="0.5;0.9;0.5" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="270" r="160" fill="url(#orbGlow2)">
+      <animate attributeName="opacity" values="0.4;0.8;0.4" dur="5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- starfield -->
+    <g fill="#ffffff">
+      <circle cx="60" cy="40" r="1.4" opacity="0.7"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="820" cy="35" r="1.6" opacity="0.6"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="760" cy="90" r="1.2" opacity="0.5"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.4s" repeatCount="indefinite"/></circle>
+      <circle cx="50" cy="260" r="1.5" opacity="0.6"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.9s" repeatCount="indefinite"/></circle>
+      <circle cx="870" cy="230" r="1.3" opacity="0.5"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.7s" repeatCount="indefinite"/></circle>
+      <circle cx="450" cy="20" r="1.1" opacity="0.5"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.1s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- rotating 3D-ish tech ring behind text -->
+    <g transform="translate(450,150)">
+      <ellipse cx="0" cy="0" rx="330" ry="60" fill="none" stroke="#22d3ee" stroke-opacity="0.18" stroke-width="1.5">
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="18s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="0" cy="0" rx="280" ry="100" fill="none" stroke="#a78bfa" stroke-opacity="0.14" stroke-width="1.2">
+        <animateTransform attributeName="transform" type="rotate" from="360 0 0" to="0 0 0" dur="24s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+
+    <!-- floating code brackets, subtle wobble -->
+    <text x="70" y="120" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="46" fill="#22d3ee" fill-opacity="0.35">
+      &lt;/&gt;
+      <animate attributeName="y" values="120;110;120" dur="3.5s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="790" y="250" font-family="Consolas, 'Courier New', monospace" font-weight="700" font-size="40" fill="#facc15" fill-opacity="0.3">
+      { AI }
+      <animate attributeName="y" values="250;262;250" dur="4s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- main name -->
+    <text x="450" y="148" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="800" font-size="58" fill="url(#textGrad)" filter="url(#glow)">
+      Nour Hassan Pindhe
+      <animate attributeName="opacity" values="0.75;1;0.75" dur="3s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- subtitle -->
+    <text x="450" y="192" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="22" letter-spacing="1" fill="url(#subGrad)" filter="url(#softGlow)">
+      Full-Stack Developer • UI/UX Designer • AI Engineer
+    </text>
+
+    <!-- tagline pill -->
+    <g transform="translate(450,236)">
+      <rect x="-190" y="-18" width="380" height="36" rx="18" fill="#0f172a" stroke="#22d3ee" stroke-opacity="0.5"/>
+      <text x="0" y="6" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#67e8f9">
+        🤖 Building AI-Powered Solutions from Hargeisa, Somaliland
+      </text>
+    </g>
+
+    <!-- bottom scan line glow -->
+    <rect x="0" y="308" width="900" height="2" fill="url(#textGrad)" opacity="0.6">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="1" y="1" width="898" height="318" rx="18" fill="none" stroke="url(#textGrad)" stroke-opacity="0.4" stroke-width="1.5"/>
+</svg>
+
 <h1 align="center">Hi 👋, I'm Nour hassan pindhe</h1>
 <h3 align="center">FULL STACK & Artificial Intelligence</h3>
 

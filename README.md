@@ -52,7 +52,7 @@ fun_fact: I turn a single Somali sentence into a full production app 🚀
 <a href="https://www.instagram.com/pindhe_1/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://dribbble.com/nor-pindhe" target="_blank">
+<a href="[https://dribbble.com/nor-pindhe](https://engpindhe.vercel.app/)" target="_blank">
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
 </a>
 <a href="https://www.youtube.com/@pindhe" target="_blank">

@@ -66,6 +66,8 @@ fun_fact: I turn a single Somali sentence into a full production app 🚀
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -111,19 +113,29 @@ fun_fact: I turn a single Somali sentence into a full production app 🚀
 
 <br/><br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pindhe&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=A78BFA&point=FACC15" width="100%"/>
+
+<br/><br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=pindhe&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="pindhe trophies"/>
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+## 🧊 3D Contribution Calendar
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/pindhe/pindhe/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/pindhe/profile-3d-contrib/main/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
 </div>
 
-> ℹ️ The snake animation activates automatically once you add the **snake GitHub Action** to this repo (`pindhe/pindhe`) — see setup note at the bottom of this file.
+> ℹ️ Two GitHub Actions power this section — see setup notes at the bottom: the **snake** animation (eats your contribution graph) and **profile-3d-contrib** (renders an isometric 3D bar chart of your daily commits, rotating and re-rendered daily).
 
 <br/>
 
@@ -138,3 +150,72 @@ fun_fact: I turn a single Somali sentence into a full production app 🚀
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1024,50:150A2E,100:0B1024&height=120&section=footer"/>
 
 </div>
+
+<!--
+═══════════════════════════════════════════════
+SETUP NOTES — GitHub Actions required
+═══════════════════════════════════════════════
+
+1) CONTRIBUTION SNAKE (animates the grid into a snake eating your squares)
+   Repo: Platane/snk
+   Workflow file: .github/workflows/snake.yml
+
+   name: generate snake
+   on:
+     schedule:
+       - cron: "0 */6 * * *"
+     workflow_dispatch: {}
+     push:
+       branches: [ main ]
+   jobs:
+     generate:
+       permissions:
+         contents: write
+       runs-on: ubuntu-latest
+       steps:
+         - uses: Platane/snk@v3
+           with:
+             github_user_name: pindhe
+             outputs: |
+               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+               dist/github-contribution-grid-snake.svg
+         - uses: crazy-max/ghaction-github-pages@v4
+           with:
+             target_branch: output
+             build_dir: dist
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+2) 3D CONTRIBUTION GRAPH (isometric bar chart, rotates daily)
+   Repo: yoshi389111/github-profile-3d-contrib
+   Create a repo named exactly: profile-3d-contrib
+   Workflow file: .github/workflows/profile-3d-contrib.yml
+
+   name: 3D Profile
+   on:
+     schedule:
+       - cron: "0 0 * * *"
+     workflow_dispatch: {}
+   jobs:
+     build:
+       runs-on: ubuntu-latest
+       steps:
+         - uses: actions/checkout@v4
+         - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+             USERNAME: pindhe
+         - uses: stefanzweifel/git-auto-commit-action@v5
+           with:
+             commit_message: "generate 3D profile"
+
+   After the first run, the SVGs land at:
+     profile-night-rainbow.svg / profile-night-view.svg / profile-day-view.svg
+   Swap the color scheme in the README image URL above if you prefer a different variant.
+
+3) BANNER
+   ./banner.svg is your existing custom banner — untouched here since it's already animated.
+   If you want it upgraded (parallax gradient, floating shapes, glassmorphism), say so and
+   I can rebuild it as a self-contained animated SVG.
+═══════════════════════════════════════════════
+-->

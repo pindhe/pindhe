@@ -264,22 +264,6 @@ reach_me: kharash420@gmail.com
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 🧊 3D Contribution Calendar
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pindhe/pindhe/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-
-  <br/><br/>
-
-  <img src="https://raw.githubusercontent.com/pindhe/profile-3d-contrib/main/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
-</div>
-
-> ℹ️ Two GitHub Actions power this section — see setup notes at the bottom: the **snake** animation (eats your contribution graph) and **profile-3d-contrib** (renders an isometric 3D bar chart of your daily commits, rotating and re-rendered daily).
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-
 <div align="center">
 
 ### 💡 "Code with purpose. Design with soul. Ship with pride."

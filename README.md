@@ -257,13 +257,6 @@ reach_me: kharash420@gmail.com
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=pindhe&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="pindhe trophies"/>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 
 

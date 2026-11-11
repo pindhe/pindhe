@@ -22,57 +22,112 @@
 
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍💻 Info
+
 ```yaml
 name: Nour Hassan Pindhe (Eng.)
 handle: "@pindhe"
 location: Hargeisa, Somaliland 🇸🇴
-role: [Full-Stack Developer, UI/UX Designer, AI Engineer]
+role:
+  - Full-Stack Developer
+  - UI/UX Designer
+  - AI Engineer
 focus: Web • Mobile • AI-powered products
-currently_learning: Advanced AI Systems & Cloud Architecture
+learning: Advanced AI Systems & Cloud
 reach_me: kharash420@gmail.com
-fun_fact: I turn a single Somali sentence into a full production app 🚀
 ```
 
-- 🔭 I'm currently building **AI-powered platforms** for education, recruitment, and business in Somaliland
-- 🌱 I'm currently leveling up in **AI Engineering, System Architecture & Cloud**
-- 🤝 I'm open to collaborating on **web, mobile, and AI-driven projects**
+- 🔭 Building **AI-powered platforms** for education, recruitment, and business in Somaliland
+- 🌱 Leveling up in **AI Engineering, System Architecture & Cloud**
+- 🤝 Open to collaborating on **web, mobile, and AI-driven projects**
 - 💬 Ask me about **React / Next.js, Django, PHP, Flutter, and AI integrations**
 - 📫 Reach me at **kharash420@gmail.com**
 - ⚡ Fun fact: **I design, code, and ship — end to end, solo.**
+- 🚀 I turn a single Somali sentence into a full production app
+
+</td>
+<td width="50%" valign="middle" align="center">
+
+### 🗺️ Somaliland
+
+<img src="./somaliland-map.svg" alt="Map of Somaliland with Hargeisa highlighted" width="100%"/>
+
+<sub>📍 Based in <b>Hargeisa</b> — building for the Horn of Africa</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://engpindhe.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-<a href="https://www.facebook.com/pindhe2k" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-
-<a href="https://www.instagram.com/pindhe_1/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="https://www.youtube.com/@pindhe" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-
-<a href="https://github.com/pindhe" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nour-hassan-nour/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:kharash420@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<table>
+<tr>
+<td align="center" width="140">
+  <a href="https://engpindhe.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</td>
+<td>🚀 &nbsp;My work, projects & case studies</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://www.linkedin.com/in/nour-hassan-nour/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</td>
+<td>💼 &nbsp;Professional network & opportunities</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/pindhe" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</td>
+<td>💻 &nbsp;Open-source code & repositories</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://www.youtube.com/@pindhe" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</td>
+<td>🎬 &nbsp;Tutorials & build videos</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://www.instagram.com/pindhe_1/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</td>
+<td>📸 &nbsp;Daily life & behind the scenes</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="https://www.facebook.com/pindhe2k" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</td>
+<td>👥 &nbsp;Community & updates</td>
+</tr>
+<tr>
+<td align="center">
+  <a href="mailto:kharash420@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</td>
+<td>✉️ &nbsp;kharash420@gmail.com</td>
+</tr>
+</table>
 
 </div>
 
@@ -84,27 +139,90 @@ fun_fact: I turn a single Somali sentence into a full production app 🚀
 
 <div align="center">
 
-**Languages**
+<table>
+<tr>
+<th width="190" align="center">Category</th>
+<th align="center">Stack</th>
+</tr>
+
+<tr>
+<td align="center"><b>🎨 Frontend</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,vite&theme=dark" alt="Frontend"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cs,html,css&theme=dark" />
+<sub>HTML · CSS · JavaScript · TypeScript · React · Next.js · Vue · Tailwind · Bootstrap · Vite</sub>
+</td>
+</tr>
 
-<br/><br/>
-
-**Frameworks & Libraries**
+<tr>
+<td align="center"><b>⚙️ Backend</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi,php,laravel,java,cs&theme=dark" alt="Backend"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,django,flutter,nodejs,bootstrap,tailwind&theme=dark" />
+<sub>Node.js · Express · Python · Django · Flask · FastAPI · PHP · Laravel · Java · C#</sub>
+</td>
+</tr>
 
-<br/><br/>
-
-**Databases & Cloud**
+<tr>
+<td align="center"><b>🗄️ Database</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase,supabase&theme=dark" alt="Database"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,gcp,firebase,supabase,nginx&theme=dark" />
+<sub>MySQL · PostgreSQL · MongoDB · SQLite · Redis · Firebase · Supabase</sub>
+</td>
+</tr>
 
-<br/><br/>
-
-**Design & Tools**
+<tr>
+<td align="center"><b>🤖 AI & ML</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" alt="AI"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=figma,ps,blender,git,github,vscode,postman,docker&theme=dark" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<br/>
+<sub>LLM Integration · Prompt Engineering · RAG · AI Agents · Computer Vision</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>📱 Mobile</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio&theme=dark" alt="Mobile"/>
+<br/>
+<sub>Flutter · Dart · Kotlin · Swift · Android Studio</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>☁️ Cloud & DevOps</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=gcp,aws,docker,nginx,linux,githubactions,vercel,netlify&theme=dark" alt="Cloud"/>
+<br/>
+<sub>GCP · AWS · Docker · Nginx · Linux · GitHub Actions · Vercel · Netlify</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>🖌️ Design</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,xd&theme=dark" alt="Design"/>
+<br/>
+<sub>Figma · Photoshop · Illustrator · Blender · Adobe XD</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>🧰 Tools</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,idea,bash,notion&theme=dark" alt="Tools"/>
+<br/>
+<sub>Git · GitHub · VS Code · Postman · npm · IntelliJ · Bash · Notion</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -116,12 +234,22 @@ fun_fact: I turn a single Somali sentence into a full production app 🚀
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pindhe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=FACC15&text_color=C4B5FD"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pindhe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C4B5FD"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pindhe&theme=tokyonight" alt="Profile details" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pindhe&theme=tokyonight" alt="Repos per language" width="49%"/>
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pindhe&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=FACC15&text_color=C4B5FD"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pindhe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C4B5FD"/>
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pindhe&theme=tokyonight&hide_border=true&background=0D1117&stroke=22D3EE&ring=A78BFA&fire=FACC15&currStreakLabel=22D3EE"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pindhe&theme=tokyonight" alt="Most commit language" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pindhe&theme=tokyonight" alt="Stats" width="49%"/>
 
 <br/><br/>
 
@@ -167,6 +295,9 @@ fun_fact: I turn a single Somali sentence into a full production app 🚀
 ═══════════════════════════════════════════════
 SETUP NOTES — GitHub Actions required
 ═══════════════════════════════════════════════
+
+0) MAP
+   Upload somaliland-map.svg to the root of your profile repo (next to README.md and banner.svg).
 
 1) CONTRIBUTION SNAKE (animates the grid into a snake eating your squares)
    Repo: Platane/snk
@@ -227,7 +358,5 @@ SETUP NOTES — GitHub Actions required
 
 3) BANNER
    ./banner.svg is your existing custom banner — untouched here since it's already animated.
-   If you want it upgraded (parallax gradient, floating shapes, glassmorphism), say so and
-   I can rebuild it as a self-contained animated SVG.
 ═══════════════════════════════════════════════
 -->

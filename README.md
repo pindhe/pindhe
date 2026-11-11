@@ -262,7 +262,7 @@ reach_me: kharash420@gmail.com
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="typingcode" width="100%"/>
 
 <div align="center">
 

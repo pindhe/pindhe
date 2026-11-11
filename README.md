@@ -24,7 +24,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="34%" valign="top">
 
 ### 🧑‍💻 Info
 
@@ -36,23 +36,26 @@ role:
   - Full-Stack Developer
   - UI/UX Designer
   - AI Engineer
-focus: Web • Mobile • AI-powered products
-learning: Advanced AI Systems & Cloud
+focus: Web • Mobile • AI-powered
+learning: AI Systems & Cloud
 reach_me: kharash420@gmail.com
 ```
 
-<div align="center">
-  <img src="mecoding" alt="Coding animation" width="100%"/>
-</div>
+</td>
+<td width="33%" valign="middle" align="center">
+
+### 💻 Coding
+
+<img src="./mecoding.gif" alt="Coding animation" width="100%"/>
 
 </td>
-<td width="50%" valign="middle" align="center">
+<td width="33%" valign="middle" align="center">
 
 ### 🗺️ Somaliland
 
 <img src="./somaliland-map.jpg" alt="Map of Somaliland with Hargeisa highlighted" width="100%"/>
 
-<sub>📍 Based in <b>Hargeisa</b> — building for the Horn of Africa</sub>
+<sub>📍 Based in <b>Hargeisa</b></sub>
 
 </td>
 </tr>

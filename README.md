@@ -54,7 +54,7 @@ reach_me: kharash420@gmail.com
 
 ### 🗺️ Somaliland
 
-<img src="./somaliland-map.svg" alt="Map of Somaliland with Hargeisa highlighted" width="100%"/>
+<img src="./somaliland-map.jpg" alt="Map of Somaliland with Hargeisa highlighted" width="100%"/>
 
 <sub>📍 Based in <b>Hargeisa</b> — building for the Horn of Africa</sub>
 

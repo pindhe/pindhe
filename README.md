@@ -4,21 +4,36 @@
 
 <br/>
 
+<h3>Full-Stack Developer &nbsp;·&nbsp; UI/UX Designer &nbsp;·&nbsp; AI Engineer</h3>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+UI%2FUX+Designer;AI+Engineer+%26+Prompt+Architect;Building+for+Somaliland+%F0%9F%87%B8%F0%9F%87%B4;Turning+Ideas+into+Production+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&height=32&lines=Designing+and+shipping+production-ready+software;AI-powered+platforms+for+education+%26+recruitment;Based+in+Hargeisa%2C+Somaliland" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=pindhe&label=Profile%20Views&color=22d3ee&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/pindhe?label=Followers&style=for-the-badge&color=a78bfa" alt="followers"/>
-<img src="https://img.shields.io/badge/Status-Available%20for%20Work-facc15?style=for-the-badge" alt="status"/>
+<img src="https://img.shields.io/badge/Status-Available%20for%20Work-22C55E?style=flat-square&labelColor=0D1117" alt="status"/>
+<img src="https://img.shields.io/badge/Location-Hargeisa%2C%20Somaliland-22D3EE?style=flat-square&labelColor=0D1117" alt="location"/>
+<img src="https://img.shields.io/github/followers/pindhe?label=Followers&style=flat-square&color=A78BFA&labelColor=0D1117" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=pindhe&label=Profile%20Views&color=22d3ee&style=flat-square&labelColor=0D1117" alt="profile views"/>
+
+<br/><br/>
+
+<a href="https://engpindhe.vercel.app/"><b>Portfolio</b></a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/nour-hassan-nour/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+<a href="mailto:kharash420@gmail.com"><b>Email</b></a>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/> intan habee profissional ka dhiga te
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,0B1024,22D3EE,A78BFA,0B1024&height=2&section=header" width="100%" height="2" alt=""/>
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="34%" valign="top">
 
 ### 🧑‍💻 Info
 
@@ -246,12 +261,11 @@ reach_me: kharash420@gmail.com
 
 <br/><br/>
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=pindhe&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=A78BFA&point=FACC15" width="100%"/> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pindhe&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=A78BFA&point=FACC15" width="100%"/>
 
 <br/><br/>
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=pindhe&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="pindhe trophies"/> -->
-<img src="eca5219562c765ea916ee9a36fbf840f.gif" alt="Coding animation" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pindhe&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="pindhe trophies"/>
 
 </div>
 

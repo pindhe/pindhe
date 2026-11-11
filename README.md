@@ -252,17 +252,17 @@ reach_me: kharash420@gmail.com
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pindhe&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=A78BFA&point=FACC15" width="100%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=pindhe&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=A78BFA&point=FACC15" width="100%"/> -->
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=pindhe&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="pindhe trophies"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=pindhe&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="pindhe trophies"/> -->
 
 </div>
 
 <br/>
 
-<img src="typingcode" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 <div align="center">
 

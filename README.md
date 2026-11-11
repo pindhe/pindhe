@@ -264,7 +264,7 @@ reach_me: kharash420@gmail.com
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together+%F0%9F%9A%80" alt="footer typing"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1024,50:150A2E,100:0B1024&height=120&section=footer"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1024,50:150A2E,100:0B1024&height=120&section=footer"/> -->
 
 </div>
 

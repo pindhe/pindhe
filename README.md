@@ -41,20 +41,16 @@ learning: Advanced AI Systems & Cloud
 reach_me: kharash420@gmail.com
 ```
 
-- 🔭 Building **AI-powered platforms** for education, recruitment, and business in Somaliland
-- 🌱 Leveling up in **AI Engineering, System Architecture & Cloud**
-- 🤝 Open to collaborating on **web, mobile, and AI-driven projects**
-- 💬 Ask me about **React / Next.js, Django, PHP, Flutter, and AI integrations**
-- 📫 Reach me at **kharash420@gmail.com**
-- ⚡ Fun fact: **I design, code, and ship — end to end, solo.**
-- 🚀 I turn a single Somali sentence into a full production app
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding animation" width="100%"/>
+</div>
 
 </td>
 <td width="50%" valign="middle" align="center">
 
 ### 🗺️ Somaliland
 
-<img src="./somaliland-map.jpg" alt="Map of Somaliland with Hargeisa highlighted" width="100%"/>
+<img src="./somaliland-map.svg" alt="Map of Somaliland with Hargeisa highlighted" width="100%"/>
 
 <sub>📍 Based in <b>Hargeisa</b> — building for the Horn of Africa</sub>
 
@@ -257,14 +253,37 @@ reach_me: kharash420@gmail.com
 
 <br/><br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=pindhe&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="pindhe trophies"/>
 
+</div>
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+## 🧊 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pindhe/pindhe/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/pindhe/profile-3d-contrib/main/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
+</div>
+
+> ℹ️ Two GitHub Actions power this section — see setup notes at the bottom: the **snake** animation (eats your contribution graph) and **profile-3d-contrib** (renders an isometric 3D bar chart of your daily commits, rotating and re-rendered daily).
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+<div align="center">
 
 ### 💡 "Code with purpose. Design with soul. Ship with pride."
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together+%F0%9F%9A%80" alt="footer typing"/>
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1024,50:150A2E,100:0B1024&height=120&section=footer"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1024,50:150A2E,100:0B1024&height=120&section=footer"/>
 
 </div>
 

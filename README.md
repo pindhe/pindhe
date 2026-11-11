@@ -46,7 +46,7 @@ reach_me: kharash420@gmail.com
 
 ### 💻 Coding
 
-<img src="./mecoding.gif" alt="Coding animation" width="100%"/>
+<img src="typingcode" alt="Coding animation" width="100%"/>
 
 </td>
 <td width="33%" valign="middle" align="center">
